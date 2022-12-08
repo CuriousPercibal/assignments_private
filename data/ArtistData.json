@@ -1,0 +1,8058 @@
+[
+  {
+    "id": "0FrpdcVlJQqibaz5HfBUrL",
+    "name": "Rick James",
+    "genres": [
+      "disco",
+      "funk",
+      "post-disco",
+      "quiet storm",
+      "soul",
+      "synth funk"
+    ]
+  },
+  {
+    "id": "1zgNpeHQe8GulzfVkYP2VK",
+    "name": "The Trammps",
+    "genres": [
+      "disco",
+      "philly soul",
+      "post-disco",
+      "quiet storm"
+    ]
+  },
+  {
+    "id": "4n7L1vYXp4Dt0HfxaLBj9l",
+    "name": "Dazz Band",
+    "genres": [
+      "disco",
+      "electro",
+      "funk",
+      "post-disco",
+      "quiet storm",
+      "urban contemporary"
+    ]
+  },
+  {
+    "id": "1EialtL6J5R7O0exgdgQ1w",
+    "name": "Jackie Moore",
+    "genres": [
+      "classic soul",
+      "disco",
+      "post-disco"
+    ]
+  },
+  {
+    "id": "3mQBpAOMWYqAZyxtyeo4Lo",
+    "name": "KC & The Sunshine Band",
+    "genres": [
+      "disco",
+      "funk"
+    ]
+  },
+  {
+    "id": "7jefIIksOi1EazgRTfW2Pk",
+    "name": "Electric Light Orchestra",
+    "genres": [
+      "album rock",
+      "art rock",
+      "beatlesque",
+      "classic rock",
+      "glam rock",
+      "mellow gold",
+      "rock",
+      "soft rock",
+      "symphonic rock"
+    ]
+  },
+  {
+    "id": "0xgLzYXTSX00BF1UpyXQpi",
+    "name": "Nima Fakhrara",
+    "genres": [
+      "video game music"
+    ]
+  },
+  {
+    "id": "36QG3hiEBVgBswptwaDnw1",
+    "name": "Arkadiusz Reikowski",
+    "genres": [
+      "video game music"
+    ]
+  },
+  {
+    "id": "4kHtgiRnpmFIV5Tm4BIs8l",
+    "name": "Sergei Prokofiev",
+    "genres": [
+      "classical",
+      "early modern classical",
+      "neoclassicism",
+      "russian modern classical"
+    ]
+  },
+  {
+    "id": "1385hLNbrnbCJGokfH2ac2",
+    "name": "Franz Liszt",
+    "genres": [
+      "classical"
+    ]
+  },
+  {
+    "id": "2VZNmg4vCnew4Pavo8zDdW",
+    "name": "Max Richter",
+    "genres": [
+      "compositional ambient",
+      "post-minimalism"
+    ]
+  },
+  {
+    "id": "1C1x4MVkql8AiABuTw6DgE",
+    "name": "Richard Wagner",
+    "genres": [
+      "classical",
+      "early music",
+      "german opera",
+      "german romanticism",
+      "late romantic era"
+    ]
+  },
+  {
+    "id": "2yefARSmdZLYZaYaaZjE1q",
+    "name": "The Manhattan Pops",
+    "genres": [
+      "pops orchestra"
+    ]
+  },
+  {
+    "id": "2uFUBdaVGtyMqckSeCl0Qj",
+    "name": "Ludovico Einaudi",
+    "genres": [
+      "bow pop",
+      "compositional ambient",
+      "neo-classical"
+    ]
+  },
+  {
+    "id": "37S9qlW44AiakSF45Vra1E",
+    "name": "Avoure",
+    "genres": [
+      "melodic techno"
+    ]
+  },
+  {
+    "id": "2eyWjEeUEayi6HINa4ebJW",
+    "name": "ØGM",
+    "genres": [
+      "uk house"
+    ]
+  },
+  {
+    "id": "0DdDnziut7wOo6cAYWVZC5",
+    "name": "KREAM",
+    "genres": [
+      "dance pop",
+      "deep groove house",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "4NhRml5ZOfNaYJAHUE0XwT",
+    "name": "Nu Aspect",
+    "genres": []
+  },
+  {
+    "id": "1Zz6NBe8UIZjm88TvehFtx",
+    "name": "Le Youth",
+    "genres": [
+      "edm",
+      "nu disco",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "0Vk0t5vDLM69GHthqkKIea",
+    "name": "Nalestar",
+    "genres": [
+      "brazilian house",
+      "deep groove house",
+      "pop edm"
+    ]
+  },
+  {
+    "id": "24D8gx0257CDd1HAuqNuHu",
+    "name": "JVLA",
+    "genres": [
+      "viral rap"
+    ]
+  },
+  {
+    "id": "6rTFfPwNNFIpBOdBShd47e",
+    "name": "Hahlweg",
+    "genres": []
+  },
+  {
+    "id": "1HBjj22wzbscIZ9sEb5dyf",
+    "name": "Jonas Blue",
+    "genres": [
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "3d4kaVkfUluAiKUxDWDz5v",
+    "name": "Into The Ether",
+    "genres": []
+  },
+  {
+    "id": "22wrhNQAtwTj0CPoB9mWEF",
+    "name": "Rodrigo Deem",
+    "genres": [
+      "progressive trance"
+    ]
+  },
+  {
+    "id": "3yQP3LX8hoBRipj8eK7xmE",
+    "name": "The First Station",
+    "genres": [
+      "russian edm"
+    ]
+  },
+  {
+    "id": "0XmmX4fE4SiRMu3ICsP5sA",
+    "name": "Lipless",
+    "genres": [
+      "tropical house"
+    ]
+  },
+  {
+    "id": "5yjh35rXozitS6KLyjicLj",
+    "name": "Motiff",
+    "genres": []
+  },
+  {
+    "id": "3O69auHlBsKYz6Eh797b2d",
+    "name": "Kid Vibe",
+    "genres": []
+  },
+  {
+    "id": "5rzLwPhUU0Fh8KEM021KHa",
+    "name": "Vhyce",
+    "genres": []
+  },
+  {
+    "id": "0Upxnyh9nIUNSOmNE8WF4R",
+    "name": "BYOR",
+    "genres": [
+      "russian edm"
+    ]
+  },
+  {
+    "id": "5PlfkPxwCpRRWQJBxCa0By",
+    "name": "HUGEL",
+    "genres": [
+      "deep house",
+      "edm",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "5C4PDR4LnhZTbVnKWXuDKD",
+    "name": "Morat",
+    "genres": [
+      "colombian pop",
+      "latin pop"
+    ]
+  },
+  {
+    "id": "1dgdvbogmctybPrGEcnYf6",
+    "name": "Route 94",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop dance",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "3SCsY2dcAOmDq5BJhz2Z1O",
+    "name": "Yves Murasca",
+    "genres": []
+  },
+  {
+    "id": "1VfegrWo7qpHdZjoeIGwEN",
+    "name": "Denton (UK)",
+    "genres": []
+  },
+  {
+    "id": "4EPJlUEBy49EX1wuFOvtjK",
+    "name": "Becky Hill",
+    "genres": [
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance",
+      "pop house",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "5eALE6GKSAiBNMyqpsqoeX",
+    "name": "GotSome",
+    "genres": [
+      "deep groove house",
+      "house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "76LT1zhDz5oUDEwc8RQmBm",
+    "name": "Lolito",
+    "genres": [
+      "german drill",
+      "german underground rap"
+    ]
+  },
+  {
+    "id": "1IxEav5X3hEPqk0of4PY1I",
+    "name": "Pax Gene",
+    "genres": []
+  },
+  {
+    "id": "7u160I5qtBYZTQMLEIJmyz",
+    "name": "Borgore",
+    "genres": [
+      "brostep",
+      "classic dubstep",
+      "dubstep",
+      "edm",
+      "electro house",
+      "electronic trap"
+    ]
+  },
+  {
+    "id": "6O5LAkus9iGG1vvMGu5mDo",
+    "name": "Falden",
+    "genres": []
+  },
+  {
+    "id": "3rTZTOuaGaIuJeYuZZmVCA",
+    "name": "Luca Debonaire",
+    "genres": [
+      "deep groove house",
+      "disco house",
+      "funky house",
+      "funky tech house",
+      "groove room",
+      "house"
+    ]
+  },
+  {
+    "id": "4QfOh8rJ0OddhhXHD5QyWs",
+    "name": "The Boy Next Door",
+    "genres": [
+      "basshall"
+    ]
+  },
+  {
+    "id": "67qogtRNI0GjUr8PlaG6Zh",
+    "name": "Zeds Dead",
+    "genres": [
+      "brostep",
+      "canadian electronic",
+      "dubstep",
+      "edm",
+      "electro house",
+      "electronic trap",
+      "progressive electro house"
+    ]
+  },
+  {
+    "id": "1owCC0eLSdPUND3qAAFEmv",
+    "name": "Kokiri",
+    "genres": [
+      "deep groove house",
+      "house"
+    ]
+  },
+  {
+    "id": "6z9EDgWh3ZJZKIJI5Q71Cq",
+    "name": "Alex Mills",
+    "genres": [
+      "deep groove house",
+      "house",
+      "uk pop"
+    ]
+  },
+  {
+    "id": "39B7ChWwrWDs7zXlsu3MoP",
+    "name": "Sonny Fodera",
+    "genres": [
+      "deep groove house",
+      "edm",
+      "house",
+      "pop dance",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "3YvNtTSaJ2YAt1RhaE9eiH",
+    "name": "Panuma",
+    "genres": [
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "5ynMbTlnZvBUxrxUrd6gs0",
+    "name": "yuma.",
+    "genres": []
+  },
+  {
+    "id": "4C9H5Lat1NEZasl8MQHvtB",
+    "name": "Jewels",
+    "genres": []
+  },
+  {
+    "id": "3h1aCZ3gZ4zIWxnsxcBrPD",
+    "name": "Nico de Andrea",
+    "genres": [
+      "afro house"
+    ]
+  },
+  {
+    "id": "1jpQ5Xepnpx5YAqKQITP4A",
+    "name": "StoneBridge",
+    "genres": [
+      "disco house",
+      "vocal house"
+    ]
+  },
+  {
+    "id": "053q0ukIDRgzwTr4vNSwab",
+    "name": "Grimes",
+    "genres": [
+      "art pop",
+      "canadian electropop",
+      "dance pop",
+      "grave wave",
+      "indietronica",
+      "metropopolis",
+      "pop"
+    ]
+  },
+  {
+    "id": "1cRCQM8IdgG9Bb195rquky",
+    "name": "Le Destroy",
+    "genres": []
+  },
+  {
+    "id": "6pcxIOhQCNb7DX2iuEXgxL",
+    "name": "Tobtok",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop dance",
+      "pop edm"
+    ]
+  },
+  {
+    "id": "2D2qwEatKbBSKhBCfP6lyn",
+    "name": "Bodeans",
+    "genres": [
+      "pop rock",
+      "roots rock"
+    ]
+  },
+  {
+    "id": "0gUsjVKHygvZgi27L2QViK",
+    "name": "SOHMI",
+    "genres": []
+  },
+  {
+    "id": "5MraexJKZDrQYzS98kNwie",
+    "name": "Sevdaliza",
+    "genres": [
+      "alternative r&b"
+    ]
+  },
+  {
+    "id": "7nLgDxwtRUTbagZKa9aaVA",
+    "name": "Tom Ferry",
+    "genres": [
+      "covertronica",
+      "deep groove house",
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "5tQMB0cuNXdCtzovGt55uD",
+    "name": "LUCKI",
+    "genres": [
+      "plugg",
+      "rap",
+      "vapor trap"
+    ]
+  },
+  {
+    "id": "7wlFDEWiM5OoIAt8RSli8b",
+    "name": "YoungBoy Never Broke Again",
+    "genres": [
+      "baton rouge rap",
+      "trap"
+    ]
+  },
+  {
+    "id": "2ySHS7UojGu20XfUPaBlyu",
+    "name": "Devin Dawson",
+    "genres": [
+      "contemporary country",
+      "country",
+      "country pop",
+      "country road",
+      "modern country rock"
+    ]
+  },
+  {
+    "id": "0PN0fbe41KbuzlRYnoajNm",
+    "name": "Antonio Aguilar",
+    "genres": [
+      "mariachi",
+      "musica mexicana",
+      "ranchera"
+    ]
+  },
+  {
+    "id": "3xid2HifEq3qKF9OdQjWhg",
+    "name": "Adi Durai",
+    "genres": []
+  },
+  {
+    "id": "6QrQ7OrISRYIfS5mtacaw2",
+    "name": "Jaymes Young",
+    "genres": [
+      "modern rock",
+      "pop"
+    ]
+  },
+  {
+    "id": "3SG9ZXF8zM3sHYBMvqF69b",
+    "name": "elitefitrea",
+    "genres": []
+  },
+  {
+    "id": "2Xpq8bhn9z3zWo6WUsdvDO",
+    "name": "Voost",
+    "genres": [
+      "deep groove house",
+      "dutch edm",
+      "house",
+      "pop edm"
+    ]
+  },
+  {
+    "id": "3EOEK57CV77D4ovYVcmiyt",
+    "name": "Dennis Lloyd",
+    "genres": [
+      "israeli pop"
+    ]
+  },
+  {
+    "id": "1h6Cn3P4NGzXbaXidqURXs",
+    "name": "Swedish House Mafia",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "pop",
+      "pop dance",
+      "progressive electro house"
+    ]
+  },
+  {
+    "id": "3fmMaLC5jjf2N4EC2kTx0u",
+    "name": "Hermitude",
+    "genres": [
+      "australian dance",
+      "downtempo",
+      "edm",
+      "electronic trap",
+      "escape room"
+    ]
+  },
+  {
+    "id": "3NNV3EiqQ63gCWXGt5jMCO",
+    "name": "Gorgon Breath",
+    "genres": []
+  },
+  {
+    "id": "2hPCF7VDHhihvNdobslOHw",
+    "name": "Spada",
+    "genres": []
+  },
+  {
+    "id": "4hdzhylhAgcDNgyyMTNQaS",
+    "name": "Beave",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop dance",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "4lCNaqCPL90EFNDVO7kNbo",
+    "name": "Dave Silcox",
+    "genres": [
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "0FBRY66KVaAiddGVefikLB",
+    "name": "WEISS",
+    "genres": [
+      "deep groove house",
+      "deep house",
+      "disco house",
+      "edm",
+      "house",
+      "pop dance",
+      "tropical house",
+      "uk dance",
+      "uk house"
+    ]
+  },
+  {
+    "id": "4drNSoijIcCXI8gMQsSqBq",
+    "name": "Eric Shultz",
+    "genres": [
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "42crL07E4WPfVovyUtMpvC",
+    "name": "Robert DeLong",
+    "genres": [
+      "modern alternative rock",
+      "modern rock"
+    ]
+  },
+  {
+    "id": "4AQrqVz6BYwy29iMxcGtx7",
+    "name": "Roosevelt",
+    "genres": [
+      "indie emo",
+      "indie soul",
+      "shiver pop"
+    ]
+  },
+  {
+    "id": "6L4nSgGW6OpNPqa83i2jDR",
+    "name": "Marksman",
+    "genres": [
+      "dancehall",
+      "jamaican dancehall",
+      "jamaican hip hop",
+      "traphall"
+    ]
+  },
+  {
+    "id": "1OmOdgwIzub8DYPxQYbbbi",
+    "name": "Will Clarke",
+    "genres": [
+      "bass house",
+      "house"
+    ]
+  },
+  {
+    "id": "4Ne0JAxKXPtgtDPQhgPzpa",
+    "name": "IMRIK",
+    "genres": []
+  },
+  {
+    "id": "0iNvk3Q56xChdDxXy5zOcl",
+    "name": "Vanstone",
+    "genres": []
+  },
+  {
+    "id": "0IkJU7AKsGjGrxiH2u4Vfd",
+    "name": "Sir Sapien",
+    "genres": []
+  },
+  {
+    "id": "2iBVVqkMHQEUvUkSr7HHoh",
+    "name": "Ronnie Pacitti",
+    "genres": []
+  },
+  {
+    "id": "0yfPh6KmtnI0XLwu1oh1hP",
+    "name": "DJ Mayson",
+    "genres": [
+      "deep groove house",
+      "swedish tropical house"
+    ]
+  },
+  {
+    "id": "2lWv7a6ohSVtXArF7q4dWc",
+    "name": "Amess",
+    "genres": [
+      "lo-fi beats"
+    ]
+  },
+  {
+    "id": "36CUTsdtNgCwMq6zKD1l8I",
+    "name": "Mauro Castillo",
+    "genres": [
+      "modern salsa",
+      "salsa colombiana"
+    ]
+  },
+  {
+    "id": "4PVHdWG0LtOCDDXo3Vh2yW",
+    "name": "Robby East",
+    "genres": [
+      "dutch edm",
+      "electro house",
+      "future house",
+      "pop edm"
+    ]
+  },
+  {
+    "id": "7sK4hnuUOXw6VStDw0q8NI",
+    "name": "Hannah Wants",
+    "genres": [
+      "deep groove house",
+      "house"
+    ]
+  },
+  {
+    "id": "3p7y4jD6cIfONGyx6xaFik",
+    "name": "Dezza",
+    "genres": [
+      "progressive house",
+      "progressive trance house"
+    ]
+  },
+  {
+    "id": "4I7tEiEHCHsUcOm5REj8qX",
+    "name": "Melt Motif",
+    "genres": []
+  },
+  {
+    "id": "3CYrfsHEf7AZRlKUvzTnpA",
+    "name": "Rules",
+    "genres": []
+  },
+  {
+    "id": "6MDME20pz9RveH9rEXvrOM",
+    "name": "Clean Bandit",
+    "genres": [
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance",
+      "post-teen pop",
+      "tropical house",
+      "uk dance",
+      "uk funky"
+    ]
+  },
+  {
+    "id": "6olE6TJLqED3rqDCT0FyPh",
+    "name": "Nirvana",
+    "genres": [
+      "alternative rock",
+      "grunge",
+      "permanent wave",
+      "rock"
+    ]
+  },
+  {
+    "id": "1rSGNXhhYuWoq9BEz5DZGO",
+    "name": "ARTY",
+    "genres": [
+      "big room",
+      "dance pop",
+      "edm",
+      "electro house",
+      "pop dance",
+      "pop edm",
+      "progressive house",
+      "russian edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "19iZvlebGTx7MIFfXSbnb6",
+    "name": "Carufo",
+    "genres": [
+      "sleep"
+    ]
+  },
+  {
+    "id": "27gtK7m9vYwCyJ04zz0kIb",
+    "name": "Lane 8",
+    "genres": [
+      "edm",
+      "gauze pop",
+      "progressive house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "6JcD2YKEhgimweLpUI0NEw",
+    "name": "KUČKA",
+    "genres": [
+      "electra"
+    ]
+  },
+  {
+    "id": "238y1dKPtMeFEpX3Y6H1Vr",
+    "name": "Parra for Cuva",
+    "genres": [
+      "downtempo",
+      "new french touch",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "6qyqSsQOJmW6GDx8djH0dv",
+    "name": "Mortimer",
+    "genres": [
+      "modern reggae"
+    ]
+  },
+  {
+    "id": "4NLm2ZOnTiUqlx7KoSsy9Z",
+    "name": "Soul Twiin",
+    "genres": []
+  },
+  {
+    "id": "7oavKrnYbTZPAPq7zCuipM",
+    "name": "Paige O'Hara",
+    "genres": [
+      "movie tunes"
+    ]
+  },
+  {
+    "id": "41TOmzyp8cryPs7PXHKdb7",
+    "name": "NORRA",
+    "genres": [
+      "new french touch"
+    ]
+  },
+  {
+    "id": "7KpLGY4aJSRPFgX2djbZQA",
+    "name": "Teenage Crime",
+    "genres": []
+  },
+  {
+    "id": "76BgexNfyR0arlhAp1tc0x",
+    "name": "DJ Kristina Mailana",
+    "genres": []
+  },
+  {
+    "id": "3yu4VilcxpQ6h35vRcemBp",
+    "name": "Tenno",
+    "genres": [
+      "japanese chillhop",
+      "lo-fi beats"
+    ]
+  },
+  {
+    "id": "7A7paAMUpawuKbS7kTrBkF",
+    "name": "Peacewithghosts",
+    "genres": []
+  },
+  {
+    "id": "0RhuWNLtoucVMRmsSkCgWl",
+    "name": "Anton Ishutin",
+    "genres": [
+      "groove room"
+    ]
+  },
+  {
+    "id": "5qHU5aVSeIWQbjWP2lQ1QN",
+    "name": "Delaney Minta",
+    "genres": []
+  },
+  {
+    "id": "6nxWCVXbOlEVRexSbLsTer",
+    "name": "Flume",
+    "genres": [
+      "australian dance",
+      "australian electropop",
+      "australian indie",
+      "downtempo",
+      "edm"
+    ]
+  },
+  {
+    "id": "5gqoUf9vKKv96b1c0GBKwu",
+    "name": "Dusky",
+    "genres": [
+      "deep groove house",
+      "deep house",
+      "house"
+    ]
+  },
+  {
+    "id": "7uGeDBa1LJ7T1X4fpl8mwk",
+    "name": "Bad Computer",
+    "genres": [
+      "edm",
+      "electro house",
+      "gaming edm"
+    ]
+  },
+  {
+    "id": "1YYJxpOXYk1z1WtqdeLMkn",
+    "name": "Habstrakt",
+    "genres": [
+      "bass house",
+      "dubstep",
+      "edm",
+      "electro house",
+      "electronic trap",
+      "filthstep"
+    ]
+  },
+  {
+    "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+    "name": "Billie Eilish",
+    "genres": [
+      "art pop",
+      "electropop",
+      "pop"
+    ]
+  },
+  {
+    "id": "49vNfTzZU1nXv2xO34z5RY",
+    "name": "CloudNone",
+    "genres": [
+      "electro house",
+      "future bass",
+      "gaming edm"
+    ]
+  },
+  {
+    "id": "5JUQJ7KsNBUfvga48DbmAf",
+    "name": "TSUKI",
+    "genres": []
+  },
+  {
+    "id": "17aCDXnpzF1XYVe0QrsRvs",
+    "name": "inverness",
+    "genres": [
+      "gaming edm"
+    ]
+  },
+  {
+    "id": "5GxyeQagayzZOg4UwffQlD",
+    "name": "Chicane",
+    "genres": [
+      "disco house",
+      "trance"
+    ]
+  },
+  {
+    "id": "7DREdfV4mKhlrQiiOPNiIa",
+    "name": "Justin Lawson",
+    "genres": []
+  },
+  {
+    "id": "2n5WmKYOibyYa3uhbd2Jai",
+    "name": "Dusty Tunez",
+    "genres": []
+  },
+  {
+    "id": "2ZRQcIgzPCVaT9XKhXZIzh",
+    "name": "Gryffin",
+    "genres": [
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "2cCqNBH4dZrWv3R3T2X7qy",
+    "name": "THYMIAN",
+    "genres": []
+  },
+  {
+    "id": "4yBK75WVCQXej1p04GWqxH",
+    "name": "Jeezy",
+    "genres": [
+      "atl hip hop",
+      "crunk",
+      "dirty south rap",
+      "gangster rap",
+      "hip hop",
+      "old school atlanta hip hop",
+      "pop rap",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ]
+  },
+  {
+    "id": "7n7VU5WFgmKTwDIXHZSQgN",
+    "name": "Ben Rainey",
+    "genres": [
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "0kSxJ8RTKZ8ArEWhwZDI1U",
+    "name": "BeatQueche",
+    "genres": [
+      "melodic techno"
+    ]
+  },
+  {
+    "id": "0lAWpj5szCSwM4rUMHYmrr",
+    "name": "Måneskin",
+    "genres": [
+      "indie rock italiano",
+      "italian pop"
+    ]
+  },
+  {
+    "id": "6HfRl1vZ3mVDGkXb7Pknjv",
+    "name": "Tonic Walter",
+    "genres": []
+  },
+  {
+    "id": "5ZHpaqtFAoc3xwH441hmYX",
+    "name": "Harman Maddhar",
+    "genres": []
+  },
+  {
+    "id": "5Gn7NoCZvbVlGgtZMILRcv",
+    "name": "Satin Jackets",
+    "genres": [
+      "indie soul",
+      "nu disco"
+    ]
+  },
+  {
+    "id": "5sjAHOtCFSgPvw8JoDX2Bi",
+    "name": "Verdance",
+    "genres": []
+  },
+  {
+    "id": "3egVrFLAIaMq1GZOaP4d0O",
+    "name": "Charlie Black",
+    "genres": []
+  },
+  {
+    "id": "4mRHCOgJQT3Pe6zV89tfYC",
+    "name": "Felon",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop edm",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "4vO1cl2ndGrUPSl6IYTHs6",
+    "name": "SAINT WKND",
+    "genres": [
+      "deep tropical house"
+    ]
+  },
+  {
+    "id": "6eKWqnckwdIlSnjaYgIyxv",
+    "name": "Eli Young Band",
+    "genres": [
+      "contemporary country",
+      "country",
+      "country road",
+      "heartland rock",
+      "modern country rock",
+      "texas country"
+    ]
+  },
+  {
+    "id": "645HaoMKyuMXSu8P968GgS",
+    "name": "GROUNDER",
+    "genres": []
+  },
+  {
+    "id": "60d24wfXkVzDSfLS6hyCjZ",
+    "name": "Martin Garrix",
+    "genres": [
+      "dance pop",
+      "dutch edm",
+      "edm",
+      "electro house",
+      "pop",
+      "pop dance",
+      "progressive house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "7EfNZh6chqDX9joO6vo68C",
+    "name": "Michael Mandal",
+    "genres": [
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "0fbxEvgzVubaCFttz1YzKR",
+    "name": "Baptiste Sejourne",
+    "genres": [
+      "shamanic"
+    ]
+  },
+  {
+    "id": "6vYSj8UGQKDTwIvraBXwE9",
+    "name": "Cerberuh",
+    "genres": []
+  },
+  {
+    "id": "5xuNBZoM7z1Vv8IQ6uM0p6",
+    "name": "JoJo",
+    "genres": [
+      "dance pop",
+      "pop",
+      "post-teen pop",
+      "r&b",
+      "urban contemporary"
+    ]
+  },
+  {
+    "id": "3vsmaQBqqp770E9fi4hQqG",
+    "name": "MelyJones",
+    "genres": []
+  },
+  {
+    "id": "0R6PMsQI6emb8bKsc3Sbwo",
+    "name": "I96",
+    "genres": []
+  },
+  {
+    "id": "4ew3WXgHuVN5LOVn0KfiNI",
+    "name": "Joey McCrilley",
+    "genres": []
+  },
+  {
+    "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+    "name": "Childish Gambino",
+    "genres": [
+      "atl hip hop",
+      "hip hop",
+      "pop",
+      "rap"
+    ]
+  },
+  {
+    "id": "6S58b0fr8TkWrEHOH4tRVu",
+    "name": "Switchfoot",
+    "genres": [
+      "ccm",
+      "christian alternative rock",
+      "christian music",
+      "christian rock",
+      "neo mellow",
+      "pop rock",
+      "worship"
+    ]
+  },
+  {
+    "id": "51XbDPiJMobLbFtXj5JoA8",
+    "name": "Al Bongo",
+    "genres": []
+  },
+  {
+    "id": "0U7iI0Dk4Ojvi17nZboNO4",
+    "name": "Vacations",
+    "genres": [
+      "newcastle nsw indie"
+    ]
+  },
+  {
+    "id": "2uGtBwRGjNt0ctY8bzDQ34",
+    "name": "Epsilon Zero",
+    "genres": [
+      "future rock"
+    ]
+  },
+  {
+    "id": "4qMSoir615wtgVxQn9fLZ2",
+    "name": "Protassov",
+    "genres": [
+      "electronica",
+      "ninja",
+      "nu jazz",
+      "trip hop"
+    ]
+  },
+  {
+    "id": "0Wxl5rQBySi1fmAnzuyce7",
+    "name": "Clyde Rouge",
+    "genres": [
+      "scottish techno"
+    ]
+  },
+  {
+    "id": "5Igpc9iLZ3YGtKeYfSrrOE",
+    "name": "Chris Lake",
+    "genres": [
+      "bass house",
+      "deep groove house",
+      "edm",
+      "electro house",
+      "house",
+      "melbourne bounce",
+      "pop dance",
+      "progressive house"
+    ]
+  },
+  {
+    "id": "0yG65Hobg0EEGfxqfFq4Jg",
+    "name": "Eynka",
+    "genres": []
+  },
+  {
+    "id": "16C3RCNPJuIcdeeD2zl68Q",
+    "name": "Common Magic",
+    "genres": []
+  },
+  {
+    "id": "2HCfBRvtzjEf2tH0kGKfxi",
+    "name": "Eauki",
+    "genres": [
+      "traprun"
+    ]
+  },
+  {
+    "id": "1mNaFNd040ikmEIjqfuYpw",
+    "name": "Blank Sense",
+    "genres": []
+  },
+  {
+    "id": "5lVNSw2GPci8kebrAQpZqU",
+    "name": "Eli Brown",
+    "genres": [
+      "bass house",
+      "house"
+    ]
+  },
+  {
+    "id": "4y3mDwV9pxLGVWQtFHnt4j",
+    "name": "Maxim Kurtys",
+    "genres": [
+      "groove room"
+    ]
+  },
+  {
+    "id": "6GyEey05kfps6PpzxapBcY",
+    "name": "ay-Mill",
+    "genres": []
+  },
+  {
+    "id": "3zrPv9JrhU27aULfo53MKf",
+    "name": "faaRStuff",
+    "genres": []
+  },
+  {
+    "id": "6QkgjazSEZ5trhl9wxYERp",
+    "name": "Mary Elizabeth McGlynn",
+    "genres": []
+  },
+  {
+    "id": "6TshTCYwh9ySzOO6Jy4Ux2",
+    "name": "Maya Jane Coles",
+    "genres": [
+      "deep disco house",
+      "deep house",
+      "electra",
+      "electronica",
+      "microhouse",
+      "minimal tech house",
+      "uk house"
+    ]
+  },
+  {
+    "id": "7ry8L53T4oJtSIogGYuioq",
+    "name": "NTO",
+    "genres": [
+      "electronica",
+      "minimal melodic techno",
+      "minimal techno",
+      "new french touch",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "6EXaiF3Ki80TYb4MfytSOR",
+    "name": "Che Jose",
+    "genres": []
+  },
+  {
+    "id": "5geAjOsxhftVd39yemf4r8",
+    "name": "Kisch",
+    "genres": [
+      "deep groove house",
+      "house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "6tQIsqw6DrDfdoPwOrOD6k",
+    "name": "Eric Krasno",
+    "genres": [
+      "modern funk"
+    ]
+  },
+  {
+    "id": "3UHGHiVMz1L0XqFi3oXHvH",
+    "name": "Collard",
+    "genres": [
+      "uk contemporary r&b"
+    ]
+  },
+  {
+    "id": "46SokoBxhvsMp8x2NRV8qL",
+    "name": "Andrey Exx",
+    "genres": [
+      "groove room"
+    ]
+  },
+  {
+    "id": "3sQiKqtxrIhI1lu7oxm9s1",
+    "name": "Framewerk",
+    "genres": []
+  },
+  {
+    "id": "0tSC9Vot7WlR1MsLBqQ9HX",
+    "name": "Ejeca",
+    "genres": [
+      "irish electronic",
+      "minimal tech house"
+    ]
+  },
+  {
+    "id": "0eWRTAqa2LtWcunkLFL4sS",
+    "name": "Return Of The Jaded",
+    "genres": [
+      "canadian electronic"
+    ]
+  },
+  {
+    "id": "0hzZTaZ59eR5lESXHRVgkc",
+    "name": "Rezident",
+    "genres": [
+      "german house"
+    ]
+  },
+  {
+    "id": "0f14r70OISSfJoyqYaHbgV",
+    "name": "Anja Schneider",
+    "genres": [
+      "electra",
+      "german house",
+      "german techno",
+      "microhouse",
+      "minimal techno",
+      "tech house"
+    ]
+  },
+  {
+    "id": "5F9PcM3OP6dnHPGJ94t43L",
+    "name": "APEXAPE",
+    "genres": [
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "2avRYQUWQpIkzJOEkf0MdY",
+    "name": "Kx5",
+    "genres": [
+      "edm",
+      "electro house"
+    ]
+  },
+  {
+    "id": "2qnpHrOzdmOo1S4ox3j17x",
+    "name": "Turnstile",
+    "genres": [
+      "hardcore punk",
+      "modern melodic hardcore"
+    ]
+  },
+  {
+    "id": "5lkiCO9UQ8B23dZ1o0UV4m",
+    "name": "Jackson Browne",
+    "genres": [
+      "album rock",
+      "classic rock",
+      "country rock",
+      "folk",
+      "folk rock",
+      "heartland rock",
+      "mellow gold",
+      "piano rock",
+      "rock",
+      "roots rock",
+      "singer-songwriter",
+      "soft rock"
+    ]
+  },
+  {
+    "id": "4KkHjCe8ouh8C2P9LPoD4F",
+    "name": "Yolanda Be Cool",
+    "genres": [
+      "australian dance",
+      "australian house",
+      "bass house"
+    ]
+  },
+  {
+    "id": "0y4R7lU8WKeI3i2e4tswsK",
+    "name": "Breaking Toys",
+    "genres": []
+  },
+  {
+    "id": "6AWdGez5g1jxpfl9XD4wI3",
+    "name": "Amir Obe",
+    "genres": [
+      "trap soul",
+      "underground hip hop"
+    ]
+  },
+  {
+    "id": "416nRN2o5Rmh7KseEtxNrs",
+    "name": "Stan Van de Ven",
+    "genres": []
+  },
+  {
+    "id": "2LtAUuJZNs3soRBBiwG9fU",
+    "name": "Pete Oak",
+    "genres": [
+      "danish electronic",
+      "groove room"
+    ]
+  },
+  {
+    "id": "6F8XLg5gz85JEVDcoiLDw1",
+    "name": "Jake Believe",
+    "genres": []
+  },
+  {
+    "id": "4FMTGkOjozsv1N6aMiR6nw",
+    "name": "Irajá",
+    "genres": []
+  },
+  {
+    "id": "4NrahGmiu8r52ZBrXekrE1",
+    "name": "Joe Maffia",
+    "genres": []
+  },
+  {
+    "id": "6GexYMsvZbtafA7dN04XwW",
+    "name": "VEME",
+    "genres": []
+  },
+  {
+    "id": "2Oi3UaRKpfLc3zUlpmAq7y",
+    "name": "Moerv",
+    "genres": []
+  },
+  {
+    "id": "3XHO7cRUPCLOr6jwp8vsx5",
+    "name": "alt-J",
+    "genres": [
+      "indie rock",
+      "modern rock"
+    ]
+  },
+  {
+    "id": "6iD5nfYvdSl4fCkcjzs2XF",
+    "name": "We Have Band",
+    "genres": [
+      "alternative dance",
+      "dance-punk",
+      "electronica",
+      "new rave"
+    ]
+  },
+  {
+    "id": "0mnlHIcYkz3TQQ07xiFwuz",
+    "name": "Ben Pearce",
+    "genres": [
+      "deep disco house",
+      "minimal tech house"
+    ]
+  },
+  {
+    "id": "14uo609t1MvRGZcskySt9R",
+    "name": "Sxmpra",
+    "genres": [
+      "dark trap",
+      "drift phonk"
+    ]
+  },
+  {
+    "id": "3oRIhCYM75fKWEx2IQUPB0",
+    "name": "Howling Winds",
+    "genres": [
+      "sleep"
+    ]
+  },
+  {
+    "id": "6hha7AM7ao3kNpN0VwOXgD",
+    "name": "Redlight King",
+    "genres": [
+      "alternative metal",
+      "post-grunge"
+    ]
+  },
+  {
+    "id": "2wdY7YDYVddKtVbbgh1fCT",
+    "name": "biskuwi",
+    "genres": []
+  },
+  {
+    "id": "3VRvi42U8SsiT4YKP5LNCB",
+    "name": "Extrawelt",
+    "genres": [
+      "electronica",
+      "german techno",
+      "hamburg electronic",
+      "microhouse",
+      "minimal techno",
+      "tech house"
+    ]
+  },
+  {
+    "id": "5uNm1FvRSh2IcPNDGQChtr",
+    "name": "Ben Crosland",
+    "genres": [
+      "background piano",
+      "neo-classical"
+    ]
+  },
+  {
+    "id": "32wcuqRxZuBY5HbH1bWa8h",
+    "name": "Tube & Berger",
+    "genres": [
+      "dusseldorf electronic",
+      "german techno",
+      "tech house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "1khyIydqanugacJyKdmceT",
+    "name": "Moonwalk",
+    "genres": [
+      "melodic techno",
+      "nu disco"
+    ]
+  },
+  {
+    "id": "1k7iyyK6j5IJzF0cUMcaGY",
+    "name": "Space Motion",
+    "genres": [
+      "serbian electronic"
+    ]
+  },
+  {
+    "id": "5Pb27ujIyYb33zBqVysBkj",
+    "name": "RÜFÜS DU SOL",
+    "genres": [
+      "australian electropop",
+      "edm",
+      "indietronica"
+    ]
+  },
+  {
+    "id": "0BmLNz4nSLfoWYW1cYsElL",
+    "name": "Alexandra Stan",
+    "genres": [
+      "dance pop",
+      "romanian pop"
+    ]
+  },
+  {
+    "id": "2ohlvFf9PBsDELdRstPtlP",
+    "name": "Ferry Corsten",
+    "genres": [
+      "dutch trance",
+      "edm",
+      "pop dance",
+      "progressive house",
+      "progressive trance",
+      "trance",
+      "uplifting trance"
+    ]
+  },
+  {
+    "id": "4rQiYfSqmicW55TlG6vjK7",
+    "name": "Yubik",
+    "genres": []
+  },
+  {
+    "id": "0Fn4agIyGMwQsKHrx1i8Dn",
+    "name": "Andy Moor",
+    "genres": [
+      "progressive house",
+      "progressive trance",
+      "trance",
+      "uplifting trance"
+    ]
+  },
+  {
+    "id": "0zlMouo6dENL2tsOY9JssU",
+    "name": "Lufthaus",
+    "genres": []
+  },
+  {
+    "id": "1Z1wCSMiUfLoeDz9lerPsr",
+    "name": "KIKKR",
+    "genres": [
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "2V5wEUwd59E55xVaDdtC6L",
+    "name": "Apres",
+    "genres": [
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "6lSDTOz1x7O4VHrWHMBuax",
+    "name": "Grim Delarosa",
+    "genres": [
+      "beats"
+    ]
+  },
+  {
+    "id": "15UsOTVnJzReFVN1VCnxy4",
+    "name": "XXXTENTACION",
+    "genres": [
+      "emo rap",
+      "miami hip hop"
+    ]
+  },
+  {
+    "id": "3tq0B16ZNtsVeUVfNfYyPp",
+    "name": "R3liks",
+    "genres": []
+  },
+  {
+    "id": "2Hil1oktsE7Wic4X5cBGK3",
+    "name": "Mo Beats",
+    "genres": []
+  },
+  {
+    "id": "5eIbEEQnDM8yuDVB0bimSP",
+    "name": "RL Grime",
+    "genres": [
+      "bass trap",
+      "edm",
+      "electro house",
+      "electronic trap",
+      "pop dance",
+      "vapor twitch"
+    ]
+  },
+  {
+    "id": "4aaBjq7VqqQvpSF69GglvO",
+    "name": "Moloko",
+    "genres": [
+      "dance pop",
+      "electronica",
+      "electropop",
+      "trip hop"
+    ]
+  },
+  {
+    "id": "1AD6JUzgEvTAI8TLGwlrba",
+    "name": "DONT BLINK",
+    "genres": [
+      "bass house",
+      "german tech house"
+    ]
+  },
+  {
+    "id": "0qM78DOdgnNPpq2CpTNgU5",
+    "name": "Born Dirty",
+    "genres": [
+      "bass house"
+    ]
+  },
+  {
+    "id": "1l2ekx5skC4gJH8djERwh1",
+    "name": "Don Diablo",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "future house",
+      "house",
+      "pop dance",
+      "progressive electro house",
+      "progressive house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "6BkSTbIWZrLZZK0sa2GehR",
+    "name": "Charlie Houston",
+    "genres": []
+  },
+  {
+    "id": "6TQj5BFPooTa08A7pk8AQ1",
+    "name": "Kaskade",
+    "genres": [
+      "edm",
+      "electro house",
+      "house",
+      "pop",
+      "pop dance",
+      "progressive house",
+      "tropical house",
+      "vocal house"
+    ]
+  },
+  {
+    "id": "6ftHlqrtNdAq0bWL7zkaTG",
+    "name": "re:plus",
+    "genres": [
+      "ambeat",
+      "japanese jazz fusion"
+    ]
+  },
+  {
+    "id": "3oKnyRhYWzNsTiss5n4Z1J",
+    "name": "LP Giobbi",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "6t1gpxYbY8OlLA7D2RiikQ",
+    "name": "Loud Luxury",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "pop",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "73jBynjsVtofjRpdpRAJGk",
+    "name": "Dimitri Vegas & Like Mike",
+    "genres": [
+      "belgian dance",
+      "belgian edm",
+      "big room",
+      "dance pop",
+      "edm",
+      "electro house",
+      "pop dance",
+      "progressive electro house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "5ENS85nZShljwNgg4wFD7D",
+    "name": "Gabry Ponte",
+    "genres": [
+      "edm",
+      "eurodance",
+      "italo dance",
+      "pop dance",
+      "slap house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "2vUCVkeZjzDcaoX4gagHdV",
+    "name": "Julian Jordan",
+    "genres": [
+      "dutch edm",
+      "edm",
+      "electro house",
+      "pop dance",
+      "pop edm",
+      "progressive electro house"
+    ]
+  },
+  {
+    "id": "6i1GVNJCyyssRwXmnaeEFH",
+    "name": "Syn Cole",
+    "genres": [
+      "dance pop",
+      "deep house",
+      "deep tropical house",
+      "edm",
+      "electro house",
+      "pop",
+      "pop dance",
+      "pop edm",
+      "progressive electro house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "5wwneIFdawNgQ7GvKK29Z3",
+    "name": "Lucas & Steve",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "pop edm",
+      "progressive electro house",
+      "progressive house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "2BJTwV4IpFe2gWL46KKlji",
+    "name": "Basto",
+    "genres": [
+      "belgian edm",
+      "edm",
+      "electro house",
+      "pop dance",
+      "progressive electro house"
+    ]
+  },
+  {
+    "id": "4j6FBtbchyfFhBrCw9eT45",
+    "name": "Sem Vox",
+    "genres": [
+      "sky room"
+    ]
+  },
+  {
+    "id": "1HxXNvsraqrsgfmju1yKk8",
+    "name": "Modern Baseball",
+    "genres": [
+      "alternative emo",
+      "emo",
+      "philly indie",
+      "pop punk"
+    ]
+  },
+  {
+    "id": "5nki7yRhxgM509M5ADlN1p",
+    "name": "Oliver Heldens",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "future house",
+      "house",
+      "pop dance",
+      "progressive electro house",
+      "progressive house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "7xwJlAavKlng9pnumlfrje",
+    "name": "DJ Z3nix",
+    "genres": []
+  },
+  {
+    "id": "4GoD5FJCgC0lbzde7ly44M",
+    "name": "Biig Piig",
+    "genres": [
+      "alternative r&b",
+      "indie soul",
+      "modern alternative pop"
+    ]
+  },
+  {
+    "id": "3Bd1cgCjtCI32PYvDC3ynO",
+    "name": "London Grammar",
+    "genres": [
+      "metropopolis",
+      "nottingham indie"
+    ]
+  },
+  {
+    "id": "1xU878Z1QtBldR7ru9owdU",
+    "name": "Phoenix",
+    "genres": [
+      "alternative dance",
+      "indie rock",
+      "modern rock",
+      "rock independant francais"
+    ]
+  },
+  {
+    "id": "6trIghKwHRUyxwvm66HLHH",
+    "name": "Fousheé",
+    "genres": [
+      "indie r&b"
+    ]
+  },
+  {
+    "id": "3qqkHeEhezlIaNj1vFYH2r",
+    "name": "spill tab",
+    "genres": [
+      "indie pop",
+      "indie r&b",
+      "modern indie pop"
+    ]
+  },
+  {
+    "id": "3KwmxIhSe9UTSEF37kwngR",
+    "name": "SHAED",
+    "genres": [
+      "electropop",
+      "pop"
+    ]
+  },
+  {
+    "id": "7FtCyCJCJaxabYO7Uyda5B",
+    "name": "Cannons",
+    "genres": []
+  },
+  {
+    "id": "0SwO7SWeDHJijQ3XNS7xEE",
+    "name": "MGMT",
+    "genres": [
+      "indietronica",
+      "modern rock",
+      "rock"
+    ]
+  },
+  {
+    "id": "3MM3uKNdJbvefUael12dl3",
+    "name": "Rochelle Jordan",
+    "genres": [
+      "alternative r&b",
+      "escape room",
+      "indie r&b",
+      "indie soul"
+    ]
+  },
+  {
+    "id": "5yePldMswAMD9fvIfRUc2o",
+    "name": "Droplex",
+    "genres": [
+      "hard minimal techno",
+      "hungarian edm",
+      "hungarian techno",
+      "melbourne bounce international"
+    ]
+  },
+  {
+    "id": "5fMUXHkw8R8eOP2RNVYEZX",
+    "name": "Diplo",
+    "genres": [
+      "edm",
+      "electro house",
+      "house",
+      "moombahton",
+      "ninja",
+      "pop",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "47BEc2RoW53owMyxacXWdV",
+    "name": "Yves V",
+    "genres": [
+      "belgian edm",
+      "covertronica",
+      "dance pop",
+      "edm",
+      "electro house",
+      "pop dance",
+      "pop edm",
+      "progressive electro house",
+      "progressive house",
+      "slap house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "5ChF3i92IPZHduM7jN3dpg",
+    "name": "Nicky Romero",
+    "genres": [
+      "big room",
+      "dance pop",
+      "dutch edm",
+      "edm",
+      "electro house",
+      "pop dance",
+      "pop edm",
+      "progressive electro house",
+      "progressive house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "3IpvVrP3VLhruTmnququq7",
+    "name": "Mike Williams",
+    "genres": [
+      "big room",
+      "edm",
+      "electro house",
+      "future house",
+      "house",
+      "pop dance",
+      "pop edm",
+      "progressive electro house",
+      "progressive house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "6UIs5b0zSXztIW5GHkCTkK",
+    "name": "Josh Lis",
+    "genres": []
+  },
+  {
+    "id": "5sm0jQ1mq0dusiLtDJ2b4R",
+    "name": "Eric Prydz",
+    "genres": [
+      "disco house",
+      "edm",
+      "electro house",
+      "pop dance",
+      "progressive house",
+      "vocal house"
+    ]
+  },
+  {
+    "id": "6mPZJXtFVaakznkRxdgWtC",
+    "name": "Throttle",
+    "genres": []
+  },
+  {
+    "id": "1RZqsmHhxF7c30VmrfbPPi",
+    "name": "Gary Caos",
+    "genres": [
+      "deep house",
+      "funky tech house"
+    ]
+  },
+  {
+    "id": "6ZitSwtBSGqj00w11GvMU3",
+    "name": "Now, Now",
+    "genres": [
+      "dreamo",
+      "indie poptimism",
+      "minneapolis indie"
+    ]
+  },
+  {
+    "id": "0J6ZEXmLQfZMeHBoa4JZTH",
+    "name": "Sidney Charles",
+    "genres": [
+      "deep disco house",
+      "deep tech house",
+      "hamburg electronic",
+      "house",
+      "minimal tech house"
+    ]
+  },
+  {
+    "id": "5Hini2nQyoglzpdKe41cZt",
+    "name": "UMEK",
+    "genres": [
+      "dark techno",
+      "minimal techno",
+      "raw techno",
+      "slovenian electronic",
+      "tech house",
+      "techno"
+    ]
+  },
+  {
+    "id": "4oLeXFyACqeem2VImYeBFe",
+    "name": "Fred again..",
+    "genres": [
+      "edm",
+      "house"
+    ]
+  },
+  {
+    "id": "07UJz804RJxqNvxFXC3h9H",
+    "name": "Sam Gellaitry",
+    "genres": [
+      "future bass",
+      "scottish electronic",
+      "vapor twitch"
+    ]
+  },
+  {
+    "id": "6y6iXD929Jqq0xc6lgwhl1",
+    "name": "LAUREL",
+    "genres": [
+      "electropop",
+      "vapor pop",
+      "vapor soul"
+    ]
+  },
+  {
+    "id": "4m1yRHUMhvB8gKAJTjK4kO",
+    "name": "Boombox Cartel",
+    "genres": [
+      "bass trap",
+      "edm",
+      "electro house",
+      "electronic trap",
+      "pop dance",
+      "vapor twitch"
+    ]
+  },
+  {
+    "id": "4AKwRarlmsUlLjIwt38NLw",
+    "name": "Ofenbach",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "pop",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "4xgFgBZ7CRtgtHcziClOwQ",
+    "name": "MOGUAI",
+    "genres": [
+      "edm",
+      "electro house",
+      "german techno",
+      "house",
+      "pop dance",
+      "progressive electro house",
+      "progressive house"
+    ]
+  },
+  {
+    "id": "5HvKzBgj4yphQfBJjBJrhL",
+    "name": "Alice Longyu Gao",
+    "genres": [
+      "escape room",
+      "hyperpop",
+      "pink noise",
+      "viral rap"
+    ]
+  },
+  {
+    "id": "5ttgIeUVka6FLyi00Uu5h8",
+    "name": "Jauz",
+    "genres": [
+      "bass house",
+      "brostep",
+      "edm",
+      "electro house",
+      "electronic trap",
+      "pop dance"
+    ]
+  },
+  {
+    "id": "2Ngsuuvh50MaAm7TnuOine",
+    "name": "Manyus",
+    "genres": []
+  },
+  {
+    "id": "4AVFqumd2ogHFlRbKIjp1t",
+    "name": "Alesso",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "pop",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "6sHCvZe1PHrOAuYlwTLNH4",
+    "name": "Gus Dapperton",
+    "genres": [
+      "bedroom pop",
+      "indie pop",
+      "indie poptimism"
+    ]
+  },
+  {
+    "id": "1q7g5SBAxtjizS3Vcof6Y6",
+    "name": "Carson Coma",
+    "genres": [
+      "hungarian indie",
+      "hungarian pop",
+      "hungarian rock",
+      "magyar alternative"
+    ]
+  },
+  {
+    "id": "3Y7RZ31TRPVadSFVy1o8os",
+    "name": "H.E.R.",
+    "genres": [
+      "pop",
+      "r&b",
+      "rap",
+      "urban contemporary"
+    ]
+  },
+  {
+    "id": "6eXZu6O7nAUA5z6vLV8NKI",
+    "name": "Little Simz",
+    "genres": [
+      "alternative r&b",
+      "escape room",
+      "trap queen"
+    ]
+  },
+  {
+    "id": "29XOeO6KIWxGthejQqn793",
+    "name": "Flying Lotus",
+    "genres": [
+      "afrofuturism",
+      "alternative hip hop",
+      "electronica",
+      "escape room",
+      "experimental hip hop",
+      "glitch",
+      "glitch hop",
+      "hip hop",
+      "intelligent dance music",
+      "jazztronica",
+      "psychedelic hip hop",
+      "wonky"
+    ]
+  },
+  {
+    "id": "0tbeZu9lv8YEKSQ9tZSslu",
+    "name": "Amber Mark",
+    "genres": [
+      "alternative r&b",
+      "indie r&b",
+      "indie soul",
+      "nyc pop",
+      "r&b"
+    ]
+  },
+  {
+    "id": "2GUw9Wzha61PkZoRVv1PDD",
+    "name": "aldn",
+    "genres": [
+      "glitchcore",
+      "hyperpop"
+    ]
+  },
+  {
+    "id": "2yLzlEFtIS0Q9UkyBZdQA7",
+    "name": "Jessie Murph",
+    "genres": [
+      "alt z",
+      "pop"
+    ]
+  },
+  {
+    "id": "1GhPHrq36VKCY3ucVaZCfo",
+    "name": "The Chemical Brothers",
+    "genres": [
+      "alternative dance",
+      "big beat",
+      "breakbeat",
+      "electronica",
+      "new rave",
+      "rave"
+    ]
+  },
+  {
+    "id": "4zAOqBfNLyWFvj1e3yvypJ",
+    "name": "Catching Flies",
+    "genres": [
+      "downtempo",
+      "electronica",
+      "indie dream pop",
+      "indie soul",
+      "new french touch",
+      "vapor soul",
+      "vapor twitch"
+    ]
+  },
+  {
+    "id": "26OrZl5U3VNGHU9qUj8EcM",
+    "name": "Shift K3Y",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop dance",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "7GMot9WvBYqhhJz92vhBp6",
+    "name": "EDX",
+    "genres": [
+      "deep groove house",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "pop edm",
+      "progressive electro house",
+      "progressive house",
+      "swiss pop",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "5Mq7iqCWBzofK39FBqblNc",
+    "name": "Jessie Ware",
+    "genres": [
+      "art pop",
+      "british soul",
+      "dance pop",
+      "electropop",
+      "neo soul",
+      "pop",
+      "pop soul",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "1UGH6A3IionoSVLLmqtl4o",
+    "name": "Jack Larsen",
+    "genres": [
+      "bedroom pop"
+    ]
+  },
+  {
+    "id": "5M0lbkGluOPXLeFjApw8r8",
+    "name": "DRAM",
+    "genres": [
+      "rap",
+      "underground hip hop",
+      "virginia hip hop"
+    ]
+  },
+  {
+    "id": "7wg1qvie3KqDNQbAkTdbX0",
+    "name": "Louis The Child",
+    "genres": [
+      "edm",
+      "electro house",
+      "electropop",
+      "indie poptimism",
+      "pop",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "28j8lBWDdDSHSSt5oPlsX2",
+    "name": "ZHU",
+    "genres": [
+      "edm",
+      "electro house"
+    ]
+  },
+  {
+    "id": "5fyDppLDl1juIu1BcUT5zh",
+    "name": "Digital Farm Animals",
+    "genres": [
+      "uk dance"
+    ]
+  },
+  {
+    "id": "30FDJPN3RtwJZ20g5YGCRX",
+    "name": "Yung Bae",
+    "genres": [
+      "future funk"
+    ]
+  },
+  {
+    "id": "4VrJDwgmhD1aIenZwn7JpE",
+    "name": "Max Leone",
+    "genres": [
+      "modern indie pop"
+    ]
+  },
+  {
+    "id": "7jLSEPYCYQ5ssWU3BICqrW",
+    "name": "Picture This",
+    "genres": [
+      "irish pop"
+    ]
+  },
+  {
+    "id": "5czbzNZZfWpyFgZyfT3Mkk",
+    "name": "SIDEPIECE",
+    "genres": [
+      "bass house",
+      "deep groove house",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance"
+    ]
+  },
+  {
+    "id": "2WX2uTcsvV5OnS0inACecP",
+    "name": "Birdy",
+    "genres": [
+      "pop"
+    ]
+  },
+  {
+    "id": "0Q2tiJnH70eKoAWRwgAled",
+    "name": "Circuit Shaker",
+    "genres": []
+  },
+  {
+    "id": "3ky8xBRraNNzxzXEw6Ga0c",
+    "name": "Anabel Englund",
+    "genres": []
+  },
+  {
+    "id": "2XGg454n1pSdgoqrfcSDbq",
+    "name": "Jeffrey Sutorius",
+    "genres": [
+      "edm",
+      "pop dance",
+      "pop edm"
+    ]
+  },
+  {
+    "id": "2vVNxGBvKRQMWwI5c8KmYh",
+    "name": "Tujamo",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "pop dance",
+      "progressive electro house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "10gzBoINW3cLJfZUka8Zoe",
+    "name": "Above & Beyond",
+    "genres": [
+      "edm",
+      "pop dance",
+      "progressive house",
+      "progressive trance",
+      "trance",
+      "uplifting trance"
+    ]
+  },
+  {
+    "id": "6AgTAQt8XS6jRWi4sX7w49",
+    "name": "Polo G",
+    "genres": [
+      "chicago rap"
+    ]
+  },
+  {
+    "id": "6roDXEmZ6AARdOUv6x5U2v",
+    "name": "Felix Cartal",
+    "genres": [
+      "canadian electronic",
+      "edm",
+      "electro house",
+      "electropop",
+      "pop dance",
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "7nC05zmJukRGYObQeRgg3x",
+    "name": "Jack Savoretti",
+    "genres": [
+      "acoustic pop",
+      "neo mellow"
+    ]
+  },
+  {
+    "id": "1ClmHgLorY9RUCIvsTdT7A",
+    "name": "BEKA",
+    "genres": [
+      "uk pop"
+    ]
+  },
+  {
+    "id": "7FU0xCgmSYQEiBeevUqQ4S",
+    "name": "Yoke Lore",
+    "genres": [
+      "indie folk",
+      "nyc pop",
+      "stomp and holler"
+    ]
+  },
+  {
+    "id": "3aROeSNBd69DWHpcyyMOcI",
+    "name": "Alex Porat",
+    "genres": [
+      "indonesian pop"
+    ]
+  },
+  {
+    "id": "62k5LKMhymqlDNo2DWOvvv",
+    "name": "Boys Noize",
+    "genres": [
+      "electro house",
+      "electronica",
+      "filter house",
+      "german dance",
+      "german techno",
+      "new rave"
+    ]
+  },
+  {
+    "id": "7tGP2lCt2Xkoc3BCN13NWU",
+    "name": "MR.BLACK",
+    "genres": [
+      "big room",
+      "sky room"
+    ]
+  },
+  {
+    "id": "0SURDCN1DbuW9STmuSHUaR",
+    "name": "Monocule",
+    "genres": [
+      "dutch edm"
+    ]
+  },
+  {
+    "id": "113reBz1jA6rVxbXl55mlj",
+    "name": "Rebūke",
+    "genres": [
+      "irish electronic"
+    ]
+  },
+  {
+    "id": "1wqW0IQWC7V7jktcjVHID6",
+    "name": "Black Caviar",
+    "genres": [
+      "bass house",
+      "electro house"
+    ]
+  },
+  {
+    "id": "3gk0OYeLFWYupGFRHqLSR7",
+    "name": "Showtek",
+    "genres": [
+      "classic hardstyle",
+      "edm",
+      "electro house",
+      "euphoric hardstyle",
+      "pop dance",
+      "progressive electro house"
+    ]
+  },
+  {
+    "id": "5Pwc4xIPtQLFEnJriah9YJ",
+    "name": "OneRepublic",
+    "genres": [
+      "piano rock",
+      "pop"
+    ]
+  },
+  {
+    "id": "5vBSrE1xujD2FXYRarbAXc",
+    "name": "Years & Years",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electropop",
+      "gauze pop",
+      "pop",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "4WUGQykLBGFfsl0Qjl6TDM",
+    "name": "The Magician",
+    "genres": [
+      "belgian edm",
+      "edm",
+      "house",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "37YzpfBeFju8QRZ3g0Ha1Q",
+    "name": "DJ Seinfeld",
+    "genres": [
+      "electronica",
+      "float house",
+      "lo-fi house"
+    ]
+  },
+  {
+    "id": "6IoO8i8OnEodMtJ3CFKlAH",
+    "name": "Vidojean X Oliver Loenn",
+    "genres": []
+  },
+  {
+    "id": "7vk5e3vY1uw9plTHJAMwjN",
+    "name": "Alan Walker",
+    "genres": [
+      "electro house"
+    ]
+  },
+  {
+    "id": "3MyFDtqB80WZvbtCZRsekM",
+    "name": "Bakermat",
+    "genres": [
+      "minimal tech house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "0u6GtibW46tFX7koQ6uNJZ",
+    "name": "Topic",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "german dance",
+      "pop dance",
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "2NjfBq1NflQcKSeiDooVjY",
+    "name": "Tones And I",
+    "genres": [
+      "australian pop",
+      "pop"
+    ]
+  },
+  {
+    "id": "3FAUGHLioXySQ1QTnCOWQC",
+    "name": "Croatia Squad",
+    "genres": [
+      "deep groove house",
+      "edm",
+      "electro house",
+      "house"
+    ]
+  },
+  {
+    "id": "6TLwD7HPWuiOzvXEa3oCNe",
+    "name": "Oliver Tree",
+    "genres": [
+      "alternative hip hop"
+    ]
+  },
+  {
+    "id": "79bxUQsBIXO8nVLB9fYKf7",
+    "name": "Modern Talking",
+    "genres": [
+      "eurodance",
+      "europop",
+      "german pop",
+      "synthpop"
+    ]
+  },
+  {
+    "id": "1wgromWPlRuKomdzZ8dB1k",
+    "name": "Cserháti Zsuzsa",
+    "genres": [
+      "classic hungarian pop",
+      "hungarian pop"
+    ]
+  },
+  {
+    "id": "7gOdHgIoIKoe4i9Tta6qdD",
+    "name": "Jonas Brothers",
+    "genres": [
+      "boy band",
+      "dance pop",
+      "pop",
+      "post-teen pop"
+    ]
+  },
+  {
+    "id": "1Jeumiu0cMGIJFI6F80Ok1",
+    "name": "Lennard Kastner",
+    "genres": []
+  },
+  {
+    "id": "19zQevA415Jm6ThEtIwVIb",
+    "name": "ZABO",
+    "genres": [
+      "canadian electronic",
+      "dark clubbing"
+    ]
+  },
+  {
+    "id": "4bL2B6hmLlMWnUEZnorEtG",
+    "name": "Felix Jaehn",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "german dance",
+      "pop",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "3bqBkAzdPwEDe1JUvb7ZeC",
+    "name": "Guy Gerber",
+    "genres": [
+      "israeli techno",
+      "microhouse",
+      "minimal techno",
+      "organic electronic",
+      "organic house",
+      "tech house"
+    ]
+  },
+  {
+    "id": "3GqaISzCwGmwVEjwPpYEJy",
+    "name": "High Heels Breaker",
+    "genres": []
+  },
+  {
+    "id": "6QXqARXg4hZ3oAUitm2gU0",
+    "name": "Julian Wassermann",
+    "genres": [
+      "deep techno",
+      "munich electronic"
+    ]
+  },
+  {
+    "id": "7orlzf5LTqSnCzURkZFebN",
+    "name": "KAS:ST",
+    "genres": [
+      "french techno"
+    ]
+  },
+  {
+    "id": "2nq2BeSbzExGAv3Y4HgUf7",
+    "name": "Stephan Bodzin",
+    "genres": [
+      "deep techno",
+      "electronica",
+      "german techno",
+      "microhouse",
+      "minimal techno",
+      "tech house"
+    ]
+  },
+  {
+    "id": "4mQjbyd6Gcf9rwDTQEblGa",
+    "name": "Borokov Borokov",
+    "genres": [
+      "belgian electronic"
+    ]
+  },
+  {
+    "id": "1Dtnpnv1YJ5sMz2cV1yOy6",
+    "name": "Elrajas",
+    "genres": []
+  },
+  {
+    "id": "4QK6kc57qNZNCb8DZ68tOr",
+    "name": "Horisone",
+    "genres": [
+      "hungarian techno"
+    ]
+  },
+  {
+    "id": "5dNuHnFp9DGGOxoQx1WB5v",
+    "name": "Theydream",
+    "genres": [
+      "high-tech minimal"
+    ]
+  },
+  {
+    "id": "5fasubnSIOTRYlIZA17ong",
+    "name": "Ann Clue",
+    "genres": [
+      "high-tech minimal",
+      "minimal techno"
+    ]
+  },
+  {
+    "id": "6PIxyj355iDhl3wQSsHXPE",
+    "name": "Moritz Hofbauer",
+    "genres": [
+      "melodic techno"
+    ]
+  },
+  {
+    "id": "6caPJFLv1wesmM7gwK1ACy",
+    "name": "Boris Brejcha",
+    "genres": [
+      "high-tech minimal",
+      "minimal techno"
+    ]
+  },
+  {
+    "id": "0EmeFodog0BfCgMzAIvKQp",
+    "name": "Shakira",
+    "genres": [
+      "colombian pop",
+      "dance pop",
+      "latin pop"
+    ]
+  },
+  {
+    "id": "0LVrQUinPUBFvVD5pLqmWY",
+    "name": "Doves",
+    "genres": [
+      "alternative rock",
+      "britpop",
+      "electronica",
+      "indie rock",
+      "modern rock",
+      "new rave",
+      "pop rock",
+      "rock"
+    ]
+  },
+  {
+    "id": "3pTE9iaJTkWns3mxpNQlJV",
+    "name": "Bombay Bicycle Club",
+    "genres": [
+      "alternative dance",
+      "british indie rock",
+      "indie rock",
+      "indietronica",
+      "modern rock",
+      "new rave",
+      "rock",
+      "stomp and holler"
+    ]
+  },
+  {
+    "id": "6QzMY3tnu0m56eKUnr4uCF",
+    "name": "Alfie Templeman",
+    "genres": [
+      "modern alternative pop"
+    ]
+  },
+  {
+    "id": "2D4FOOOtWycb3Aw9nY5n3c",
+    "name": "Declan McKenna",
+    "genres": [
+      "indie pop",
+      "modern alternative rock",
+      "modern rock"
+    ]
+  },
+  {
+    "id": "54QMjE4toDfiCryzYWCpXX",
+    "name": "Metronomy",
+    "genres": [
+      "alternative dance",
+      "electronica",
+      "electropop",
+      "indie rock",
+      "indietronica",
+      "modern rock",
+      "new rave",
+      "socal pop punk"
+    ]
+  },
+  {
+    "id": "5INjqkS1o8h1imAzPqGZBb",
+    "name": "Tame Impala",
+    "genres": [
+      "australian psych",
+      "neo-psychedelic"
+    ]
+  },
+  {
+    "id": "0VRj0yCOv2FXJNP47XQnx5",
+    "name": "Quavo",
+    "genres": [
+      "atl hip hop",
+      "hip hop",
+      "melodic rap",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ]
+  },
+  {
+    "id": "0hSgRl2U8kSaJLE2Di325f",
+    "name": "Bad Sounds",
+    "genres": [
+      "english indie rock"
+    ]
+  },
+  {
+    "id": "2iHrc69sZgyWFBAhLpS3oH",
+    "name": "Meltt",
+    "genres": []
+  },
+  {
+    "id": "14YDWSgNTuQ9zHNiB2xq83",
+    "name": "N O M I N A L",
+    "genres": [
+      "mexican tech house"
+    ]
+  },
+  {
+    "id": "6FQqZYVfTNQ1pCqfkwVFEa",
+    "name": "Foals",
+    "genres": [
+      "indie rock",
+      "modern rock",
+      "oxford indie",
+      "rock"
+    ]
+  },
+  {
+    "id": "4C3OH09YXrtoiREsAsk9JA",
+    "name": "Julian Meinke",
+    "genres": []
+  },
+  {
+    "id": "2UBLJyUgCq6XMiSVV7oGv8",
+    "name": "Egbert Rosa aka Haze",
+    "genres": []
+  },
+  {
+    "id": "5wt6ykFuNy0WtBpYVaG7OY",
+    "name": "D-Formation",
+    "genres": [
+      "focus trance",
+      "latin tech house"
+    ]
+  },
+  {
+    "id": "2Em0PWUcrHZFGLrpVv0xtb",
+    "name": "Clawz SG",
+    "genres": [
+      "melodic techno"
+    ]
+  },
+  {
+    "id": "6kkdxR4fLeX1bz8Ujruh3a",
+    "name": "Koelle",
+    "genres": []
+  },
+  {
+    "id": "4iMO20EPodreIaEl8qW66y",
+    "name": "Still Woozy",
+    "genres": [
+      "bedroom pop",
+      "oakland indie"
+    ]
+  },
+  {
+    "id": "4nHovHbwtLbguLZjbu3Bbc",
+    "name": "Mike Spinx",
+    "genres": []
+  },
+  {
+    "id": "1oXiuCd5F0DcnmXH5KaM6N",
+    "name": "Kollektiv Turmstrasse",
+    "genres": [
+      "electronica",
+      "german techno",
+      "hamburg electronic",
+      "microhouse",
+      "minimal techno",
+      "organic electronic",
+      "tech house"
+    ]
+  },
+  {
+    "id": "3q7XOzzlff7iCLz2JNalDV",
+    "name": "Minilogue",
+    "genres": [
+      "electronica",
+      "microhouse",
+      "minimal techno",
+      "swedish electronic",
+      "tech house"
+    ]
+  },
+  {
+    "id": "2CIMQHirSU0MQqyYHq0eOx",
+    "name": "deadmau5",
+    "genres": [
+      "canadian electronic",
+      "edm",
+      "electro house",
+      "pop dance",
+      "progressive house"
+    ]
+  },
+  {
+    "id": "4SxTtbkEKXwyhltXD7tnYQ",
+    "name": "Hozho",
+    "genres": [
+      "techno"
+    ]
+  },
+  {
+    "id": "33ARHtMLoXkzNYXqnSXhkL",
+    "name": "AKZENTH",
+    "genres": []
+  },
+  {
+    "id": "2I4hRNCYkPKJQlkoEZKjYx",
+    "name": "Monolink",
+    "genres": [
+      "livetronica"
+    ]
+  },
+  {
+    "id": "4bzppvW4geKqxLC5VYJn2G",
+    "name": "Alexey Union",
+    "genres": []
+  },
+  {
+    "id": "5anIaPEacO0S5sVfxg6cVw",
+    "name": "Murkish",
+    "genres": [
+      "sped up"
+    ]
+  },
+  {
+    "id": "6MwPCCR936cYfM1dLsGVnl",
+    "name": "Motionless In White",
+    "genres": [
+      "metalcore"
+    ]
+  },
+  {
+    "id": "46Ce0QmI1mE2bl5VQ4P9N8",
+    "name": "Lapalux",
+    "genres": [
+      "chillwave",
+      "electronica",
+      "future garage",
+      "uk bass",
+      "vapor twitch",
+      "wonky"
+    ]
+  },
+  {
+    "id": "762310PdDnwsDxAQxzQkfX",
+    "name": "Depeche Mode",
+    "genres": [
+      "synthpop"
+    ]
+  },
+  {
+    "id": "4ofCBoyEiGSePFAG500xev",
+    "name": "Regard",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "pop",
+      "pop dance",
+      "pop edm",
+      "slap house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "38jpuy3yt3QIxQ8Fn1HTeJ",
+    "name": "Mat.Joe",
+    "genres": [
+      "deep disco house",
+      "deep groove house",
+      "deep house",
+      "disco house",
+      "funky house",
+      "funky tech house",
+      "house"
+    ]
+  },
+  {
+    "id": "6tsRo8ErXzpHk3tQeH6GBW",
+    "name": "Black Box",
+    "genres": [
+      "diva house",
+      "eurodance",
+      "europop",
+      "hip house",
+      "italo house",
+      "new wave pop",
+      "vocal house"
+    ]
+  },
+  {
+    "id": "7lkYBcrLM4JmVgeha1xNl6",
+    "name": "Abstract",
+    "genres": [
+      "indie pop rap",
+      "pop rap"
+    ]
+  },
+  {
+    "id": "1mrrvBvbrm28iYaPlJ9mG5",
+    "name": "Alex Adair",
+    "genres": [
+      "deep groove house",
+      "house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "3U7Vb48M4cd53XIpXUUDST",
+    "name": "Playless",
+    "genres": []
+  },
+  {
+    "id": "3t8WiyalpvnB9AObcMufiE",
+    "name": "Mahmut Orhan",
+    "genres": [
+      "turkish deep house",
+      "turkish edm"
+    ]
+  },
+  {
+    "id": "0Q9slhIaEgg190iG8udYIV",
+    "name": "Philip George",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop dance",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "6XwwFnewNgWp81MYMK8zLq",
+    "name": "Edward Maya",
+    "genres": [
+      "dance pop",
+      "romanian house",
+      "romanian pop"
+    ]
+  },
+  {
+    "id": "2l35CQqtYRh3d8ZIiBep4v",
+    "name": "MKTO",
+    "genres": [
+      "dance pop",
+      "pop",
+      "pop rap",
+      "pop rock",
+      "post-teen pop"
+    ]
+  },
+  {
+    "id": "0Dc7CbTE5mcvrprttS6GDs",
+    "name": "Locked Groove",
+    "genres": [
+      "belgian edm",
+      "belgian techno",
+      "deep techno"
+    ]
+  },
+  {
+    "id": "5szdY7KaSi7epwyffrbV8c",
+    "name": "Poolside",
+    "genres": [
+      "alternative dance",
+      "indie soul",
+      "nu disco"
+    ]
+  },
+  {
+    "id": "2VYQTNDsvvKN9wmU5W7xpj",
+    "name": "Marilyn Manson",
+    "genres": [
+      "alternative metal",
+      "industrial",
+      "industrial metal",
+      "industrial rock",
+      "nu metal"
+    ]
+  },
+  {
+    "id": "5Am25tT39BPzreHngMkuux",
+    "name": "Format:B",
+    "genres": [
+      "deep euro house",
+      "german tech house",
+      "german techno",
+      "minimal techno",
+      "tech house"
+    ]
+  },
+  {
+    "id": "5WWSL6rElJeUk3Uc1S2RyD",
+    "name": "Dead Or Alive",
+    "genres": [
+      "hi-nrg",
+      "new romantic",
+      "new wave",
+      "new wave pop",
+      "synthpop"
+    ]
+  },
+  {
+    "id": "6M2wZ9GZgrQXHCFfjv46we",
+    "name": "Dua Lipa",
+    "genres": [
+      "dance pop",
+      "pop",
+      "uk pop"
+    ]
+  },
+  {
+    "id": "0DbBBj0ScPumRqKXswGQH1",
+    "name": "Cookiee Kawaii",
+    "genres": [
+      "alternative r&b",
+      "escape room",
+      "viral rap"
+    ]
+  },
+  {
+    "id": "37U9sPqTZMd7AKJCWgcvkt",
+    "name": "Pryda",
+    "genres": [
+      "edm",
+      "electro house",
+      "progressive electro house",
+      "progressive house",
+      "tech house"
+    ]
+  },
+  {
+    "id": "0QaSiI5TLA4N7mcsdxShDO",
+    "name": "Sub Focus",
+    "genres": [
+      "dancefloor dnb",
+      "drum and bass",
+      "uk dance",
+      "uk dnb"
+    ]
+  },
+  {
+    "id": "2gZzTzeACSwFqkMroVxmnm",
+    "name": "Darren Styles",
+    "genres": [
+      "happy hardcore",
+      "hardcore techno"
+    ]
+  },
+  {
+    "id": "4yX6mpMyBGf9UfvBB8JJrc",
+    "name": "Hayla",
+    "genres": []
+  },
+  {
+    "id": "6aQkWe9oquW7R0BtPjhTY7",
+    "name": "Mark Galloway",
+    "genres": []
+  },
+  {
+    "id": "37uLId6Z5ZXCx19vuruvv5",
+    "name": "Hot Chip",
+    "genres": [
+      "alternative dance",
+      "dance rock",
+      "electronica",
+      "electropop",
+      "indie rock",
+      "indietronica",
+      "modern rock",
+      "neo-synthpop",
+      "new rave"
+    ]
+  },
+  {
+    "id": "4WN5naL3ofxrVBgFpguzKo",
+    "name": "Rudimental",
+    "genres": [
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance",
+      "tropical house",
+      "uk dance",
+      "uk funky"
+    ]
+  },
+  {
+    "id": "60yfafz0P3gqaUaOUIddae",
+    "name": "BRONSON",
+    "genres": [
+      "edm",
+      "vapor twitch"
+    ]
+  },
+  {
+    "id": "3TQKbfmV71guAH49oalx69",
+    "name": "IO Echo",
+    "genres": [
+      "shiver pop"
+    ]
+  },
+  {
+    "id": "3Co4gT2U5SSLRcqcaArvBF",
+    "name": "Kisnou",
+    "genres": [
+      "chillstep"
+    ]
+  },
+  {
+    "id": "586uxXMyD5ObPuzjtrzO1Q",
+    "name": "Sofi Tukker",
+    "genres": [
+      "edm"
+    ]
+  },
+  {
+    "id": "73A3bLnfnz5BoQjb4gNCga",
+    "name": "Bicep",
+    "genres": [
+      "ambient house",
+      "electronica"
+    ]
+  },
+  {
+    "id": "594PwrFy2mmLueuUwUgoCM",
+    "name": "M¥SS KETA",
+    "genres": [
+      "italian indie pop"
+    ]
+  },
+  {
+    "id": "7f5Zgnp2spUuuzKplmRkt7",
+    "name": "Lost Frequencies",
+    "genres": [
+      "belgian edm",
+      "edm",
+      "pop",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "4CA8PTrbq1l5IgyvBA2JSV",
+    "name": "Paul Woolford",
+    "genres": [
+      "deep groove house",
+      "edm",
+      "house",
+      "pop dance",
+      "tropical house",
+      "uk dance",
+      "uk house"
+    ]
+  },
+  {
+    "id": "23fqKkggKUBHNkbKtXEls4",
+    "name": "Kygo",
+    "genres": [
+      "edm",
+      "pop",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "3IG3Ub4ra8AuSxCFDVkVco",
+    "name": "Franky Wah",
+    "genres": [
+      "house",
+      "uk dance",
+      "uk house"
+    ]
+  },
+  {
+    "id": "54R6Y0I7jGUCveDTtI21nb",
+    "name": "Boney M.",
+    "genres": [
+      "disco",
+      "europop"
+    ]
+  },
+  {
+    "id": "0jp5Tq1Vz6CovukgysASuu",
+    "name": "Pepe Bradock (Trankilou)",
+    "genres": []
+  },
+  {
+    "id": "6wFwvxJkurQPU2UdeD4qVt",
+    "name": "The Jungle Giants",
+    "genres": [
+      "australian indie"
+    ]
+  },
+  {
+    "id": "6kz4gfxrI0aBWZWnQcvugP",
+    "name": "Steve Smooth",
+    "genres": []
+  },
+  {
+    "id": "5EDztvTkyoKtK0ZdEdhOFx",
+    "name": "Macky Gee",
+    "genres": [
+      "bass house",
+      "tekk"
+    ]
+  },
+  {
+    "id": "5mYakBbBzPMQTfkVMIgiDM",
+    "name": "Georgia Ku",
+    "genres": [
+      "uk pop"
+    ]
+  },
+  {
+    "id": "5Rl15oVamLq7FbSb0NNBNy",
+    "name": "5 Seconds of Summer",
+    "genres": [
+      "boy band",
+      "dance pop",
+      "pop",
+      "post-teen pop"
+    ]
+  },
+  {
+    "id": "3AmgGrYHXqgbmZ2yKoIVzO",
+    "name": "Warpaint",
+    "genres": [
+      "alternative dance",
+      "art pop",
+      "chamber psych",
+      "chillwave",
+      "dream pop",
+      "electronica",
+      "indie rock",
+      "la indie",
+      "modern alternative rock",
+      "modern dream pop",
+      "modern rock",
+      "new rave"
+    ]
+  },
+  {
+    "id": "4phGZZrJZRo4ElhRtViYdl",
+    "name": "Jason Mraz",
+    "genres": [
+      "acoustic pop",
+      "neo mellow",
+      "pop",
+      "pop rock"
+    ]
+  },
+  {
+    "id": "72VzFto8DYvKHocaHYNWSi",
+    "name": "Hot Chocolate",
+    "genres": [
+      "classic uk pop",
+      "disco",
+      "soft rock"
+    ]
+  },
+  {
+    "id": "6mQfAAqZGBzIfrmlZCeaYT",
+    "name": "Chaka Khan",
+    "genres": [
+      "disco",
+      "funk",
+      "neo soul",
+      "post-disco",
+      "quiet storm",
+      "soul",
+      "urban contemporary"
+    ]
+  },
+  {
+    "id": "7G1GBhoKtEPnP86X2PvEYO",
+    "name": "Nina Simone",
+    "genres": [
+      "jazz blues",
+      "soul",
+      "soul jazz",
+      "torch song",
+      "vocal jazz"
+    ]
+  },
+  {
+    "id": "4npEfmQ6YuiwW1GpUmaq3F",
+    "name": "Ava Max",
+    "genres": [
+      "dance pop",
+      "pop"
+    ]
+  },
+  {
+    "id": "2eogQKWWoohI3BSnoG7E2U",
+    "name": "Donna Summer",
+    "genres": [
+      "dance pop",
+      "disco",
+      "hi-nrg",
+      "new wave pop"
+    ]
+  },
+  {
+    "id": "5H6xmHXjsq98NLbEjuE29f",
+    "name": "NEIKED",
+    "genres": [
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance",
+      "scandipop",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "27qG899eLldfpYtPr3S3NJ",
+    "name": "Scandroid",
+    "genres": [
+      "cyberpunk",
+      "darksynth",
+      "synthwave"
+    ]
+  },
+  {
+    "id": "5PbZIYWcDuRgEbMs7abSTH",
+    "name": "Ian Carey Project",
+    "genres": [
+      "pop house"
+    ]
+  },
+  {
+    "id": "0YkJpe9si3zMlSNo309puh",
+    "name": "Dune V",
+    "genres": []
+  },
+  {
+    "id": "4xXCRXOfQKQ2gjWxNhNzYW",
+    "name": "Air Supply",
+    "genres": [
+      "mellow gold",
+      "soft rock"
+    ]
+  },
+  {
+    "id": "4tZwfgrHOc3mvqYlEYSvVi",
+    "name": "Daft Punk",
+    "genres": [
+      "electro",
+      "filter house"
+    ]
+  },
+  {
+    "id": "63wd5NS9hEIj1MchScLJB1",
+    "name": "J Lloyd",
+    "genres": [
+      "indie r&b",
+      "indie soul",
+      "uk alternative pop"
+    ]
+  },
+  {
+    "id": "64l9cD8tQscYZCGRLlNm3f",
+    "name": "Akron/Family",
+    "genres": [
+      "freak folk",
+      "new weird america"
+    ]
+  },
+  {
+    "id": "3MZsBdqDrRTJihTHQrO6Dq",
+    "name": "Joji",
+    "genres": [
+      "viral pop"
+    ]
+  },
+  {
+    "id": "1OAjDaKgg00KCUYqDe68un",
+    "name": "Gigi D'Agostino",
+    "genres": [
+      "eurodance",
+      "europop",
+      "italo dance"
+    ]
+  },
+  {
+    "id": "6EqFMCnVGBRNmwPlk2f3Uc",
+    "name": "AC Slater",
+    "genres": [
+      "bass house",
+      "brostep",
+      "deep groove house",
+      "edm",
+      "electro house",
+      "fidget house",
+      "house"
+    ]
+  },
+  {
+    "id": "4uZ21B6WfXaKVKizc79gUK",
+    "name": "Marc Marzenit",
+    "genres": [
+      "deep progressive trance"
+    ]
+  },
+  {
+    "id": "3thMwq9J3a0UeLnPGhA4Qn",
+    "name": "LOthief",
+    "genres": [
+      "brazilian edm"
+    ]
+  },
+  {
+    "id": "76YIoWHp3Ri3q1ocOPtFzp",
+    "name": "AREA21",
+    "genres": [
+      "edm",
+      "pop dance"
+    ]
+  },
+  {
+    "id": "30ZqCPhfRzzWcgIbXrbHnU",
+    "name": "Francois Kevorkian",
+    "genres": []
+  },
+  {
+    "id": "0AzjiMoCvzOmUCPX7944dZ",
+    "name": "Apollo Junction",
+    "genres": [
+      "britpop revival",
+      "english indie rock"
+    ]
+  },
+  {
+    "id": "5zFOVxtYkKdqwYdG9bASRR",
+    "name": "Sound Ideas",
+    "genres": [
+      "sleep"
+    ]
+  },
+  {
+    "id": "0NV3zEAzzAFy1vf5BWGlGL",
+    "name": "Collective Machine",
+    "genres": [
+      "deep tech house"
+    ]
+  },
+  {
+    "id": "7K3zpFXBvPcvzhj7zlGJdO",
+    "name": "Crystal Castles",
+    "genres": [
+      "alternative dance",
+      "bitpop",
+      "digital hardcore",
+      "indietronica",
+      "neo-synthpop",
+      "new rave",
+      "nintendocore"
+    ]
+  },
+  {
+    "id": "6olWbKW2VLhFCHfOi0iEDb",
+    "name": "Hudson Mohawke",
+    "genres": [
+      "electronica",
+      "purple sound",
+      "scottish electronic",
+      "scottish hip hop",
+      "uk bass",
+      "uk experimental electronic",
+      "wonky"
+    ]
+  },
+  {
+    "id": "64KEffDW9EtZ1y2vBYgq8T",
+    "name": "Marshmello",
+    "genres": [
+      "brostep",
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance",
+      "progressive electro house"
+    ]
+  },
+  {
+    "id": "7n2Ycct7Beij7Dj7meI4X0",
+    "name": "TWICE",
+    "genres": [
+      "k-pop",
+      "k-pop girl group"
+    ]
+  },
+  {
+    "id": "6nS5roXSAGhTGr34W6n7Et",
+    "name": "Disclosure",
+    "genres": [
+      "edm",
+      "house",
+      "pop",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "1Cs0zKBU1kc0i8ypK3B9ai",
+    "name": "David Guetta",
+    "genres": [
+      "big room",
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance"
+    ]
+  },
+  {
+    "id": "32fRmvUUQdDvH66dUtjCSf",
+    "name": "Gonçalo Salgueiro",
+    "genres": [
+      "fado"
+    ]
+  },
+  {
+    "id": "4ZmsZWoPes1sqS7Mo0a0xP",
+    "name": "Vortex",
+    "genres": [
+      "gulf hip hop"
+    ]
+  },
+  {
+    "id": "67hb7towEyKvt5Z8Bx306c",
+    "name": "Empire of the Sun",
+    "genres": [
+      "alternative dance",
+      "australian dance",
+      "australian electropop",
+      "dance rock",
+      "electropop",
+      "indietronica",
+      "neo-synthpop"
+    ]
+  },
+  {
+    "id": "6DgP9otnZw5z6daOntINxp",
+    "name": "Joel Corry",
+    "genres": [
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "6wPhSqRtPu1UhRCDX5yaDJ",
+    "name": "The Pussycat Dolls",
+    "genres": [
+      "dance pop",
+      "girl group",
+      "pop",
+      "post-teen pop",
+      "urban contemporary"
+    ]
+  },
+  {
+    "id": "7n2wHs1TKAczGzO7Dd2rGr",
+    "name": "Shawn Mendes",
+    "genres": [
+      "canadian pop",
+      "dance pop",
+      "pop",
+      "viral pop"
+    ]
+  },
+  {
+    "id": "5YGY8feqx7naU7z4HrwZM6",
+    "name": "Miley Cyrus",
+    "genres": [
+      "dance pop",
+      "pop"
+    ]
+  },
+  {
+    "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+    "name": "BTS",
+    "genres": [
+      "k-pop",
+      "k-pop boy group"
+    ]
+  },
+  {
+    "id": "55fhWPvDiMpLnE4ZzNXZyW",
+    "name": "Noah Cyrus",
+    "genres": [
+      "pop",
+      "post-teen pop"
+    ]
+  },
+  {
+    "id": "4GNUAjOnCWs0kuq2ikLBVK",
+    "name": "Smilla",
+    "genres": [
+      "high-tech minimal"
+    ]
+  },
+  {
+    "id": "23ostNBoB9z6GMXLtHdg7y",
+    "name": "Prismo",
+    "genres": [
+      "bass trap",
+      "traprun"
+    ]
+  },
+  {
+    "id": "0n8dEua2NyVsBWatWaILrS",
+    "name": "Hardrive: 2000",
+    "genres": []
+  },
+  {
+    "id": "1UA7iIS5ui7PypnfhzJjJU",
+    "name": "Jan Cyrka",
+    "genres": [
+      "instrumental rock",
+      "neo classical metal",
+      "shred"
+    ]
+  },
+  {
+    "id": "0Ol3Jol2T3lZZVLNNzWPhj",
+    "name": "R.I.O.",
+    "genres": [
+      "dance pop",
+      "german dance",
+      "pop house",
+      "pop rap"
+    ]
+  },
+  {
+    "id": "2m9GpzUYw7G9zwG3n3dubs",
+    "name": "HIIT BPM",
+    "genres": []
+  },
+  {
+    "id": "56DDzGJXY0xndL9wu9aHUD",
+    "name": "Yugo Kanno",
+    "genres": [
+      "anime score",
+      "japanese soundtrack"
+    ]
+  },
+  {
+    "id": "31HjiqargV4NAw4GZqUale",
+    "name": "Ace Hood",
+    "genres": [
+      "dirty south rap",
+      "gangster rap",
+      "hip hop",
+      "miami hip hop",
+      "pop rap",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ]
+  },
+  {
+    "id": "1dfeR4HaWDbWqFHLkxsg1d",
+    "name": "Queen",
+    "genres": [
+      "classic rock",
+      "glam rock",
+      "rock"
+    ]
+  },
+  {
+    "id": "2zJ8chFLjiBHRNchfevMRI",
+    "name": "SNBRN",
+    "genres": [
+      "bass house",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "6n5ccknvteaKfN4WA2qf3C",
+    "name": "Illyus & Barrientos",
+    "genres": [
+      "circuit",
+      "deep groove house",
+      "disco house",
+      "funky tech house",
+      "house",
+      "uk house"
+    ]
+  },
+  {
+    "id": "59a1Bp0JQfL2mGnpL0lW2Y",
+    "name": "Joyhauser",
+    "genres": [
+      "belgian techno",
+      "dark techno",
+      "raw techno"
+    ]
+  },
+  {
+    "id": "6TVdVlY6irsNPkMHT2HkfD",
+    "name": "Space 92",
+    "genres": [
+      "french techno"
+    ]
+  },
+  {
+    "id": "7MdlXmq2HViAJWo9cf30sR",
+    "name": "Cloonee",
+    "genres": []
+  },
+  {
+    "id": "6tbjWDEIzxoDsBA1FuhfPW",
+    "name": "Madonna",
+    "genres": [
+      "dance pop",
+      "pop"
+    ]
+  },
+  {
+    "id": "37J1PlAkhRK7yrZUtqaUpQ",
+    "name": "Caravan Palace",
+    "genres": [
+      "electro swing",
+      "nu jazz"
+    ]
+  },
+  {
+    "id": "04m3oUGzjO3EJTQidFzTgM",
+    "name": "Nora Van Elken",
+    "genres": [
+      "tropical house"
+    ]
+  },
+  {
+    "id": "4FXGRMSHh2JjHxVwS8dhH1",
+    "name": "Virtual Riot",
+    "genres": [
+      "brostep",
+      "complextro",
+      "dubstep",
+      "edm",
+      "electro house",
+      "future bass",
+      "gaming dubstep",
+      "melodic dubstep"
+    ]
+  },
+  {
+    "id": "48q2mPVwlKnlSaCx07i6Ta",
+    "name": "Datsik",
+    "genres": [
+      "breakbeat",
+      "brostep",
+      "canadian electronic",
+      "edm",
+      "electro house",
+      "electronic trap",
+      "filthstep"
+    ]
+  },
+  {
+    "id": "4AoyJusH9fqC2kiko5L4ms",
+    "name": "Gypsymen",
+    "genres": [
+      "classic house"
+    ]
+  },
+  {
+    "id": "0SfsnGyD8FpIN4U4WCkBZ5",
+    "name": "Armin van Buuren",
+    "genres": [
+      "dutch trance",
+      "edm",
+      "pop dance",
+      "progressive house",
+      "trance"
+    ]
+  },
+  {
+    "id": "70HNacvAoxfDPUqAqo5YfI",
+    "name": "Powerhouse Choir",
+    "genres": []
+  },
+  {
+    "id": "5JcXcELdqwP09UrFZmQygG",
+    "name": "Murió de Asco",
+    "genres": [
+      "rosario indie"
+    ]
+  },
+  {
+    "id": "5pKCCKE2ajJHZ9KAiaK11H",
+    "name": "Rihanna",
+    "genres": [
+      "barbadian pop",
+      "dance pop",
+      "pop",
+      "urban contemporary"
+    ]
+  },
+  {
+    "id": "5orH1OWgjAYUX8sZ5gihTv",
+    "name": "Geri Halliwell",
+    "genres": [
+      "bubblegum dance",
+      "dance pop",
+      "electropop",
+      "europop"
+    ]
+  },
+  {
+    "id": "53YSn9tHwGJ6bq5P0gGoYo",
+    "name": "Firebeatz",
+    "genres": [
+      "dutch edm",
+      "dutch house",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "pop edm",
+      "progressive electro house",
+      "progressive house"
+    ]
+  },
+  {
+    "id": "0oXTS2yHUnuji1R7kc9J9a",
+    "name": "Pascal Letoublon",
+    "genres": []
+  },
+  {
+    "id": "0IUq1plF3ON4Fboj1bE6kN",
+    "name": "Delerium",
+    "genres": []
+  },
+  {
+    "id": "28uJnu5EsrGml2tBd7y8ts",
+    "name": "Vintage Culture",
+    "genres": [
+      "brazilian edm"
+    ]
+  },
+  {
+    "id": "4qwGe91Bz9K2T8jXTZ815W",
+    "name": "Janet Jackson",
+    "genres": [
+      "dance pop",
+      "hip pop",
+      "r&b",
+      "urban contemporary"
+    ]
+  },
+  {
+    "id": "19VDJ9IKyBSUMDJxLsasP6",
+    "name": "Mr. Belt & Wezol",
+    "genres": [
+      "deep groove house",
+      "dutch edm",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "1RJvVsXjPDznGnUJ15Q0Dj",
+    "name": "Pop Talk",
+    "genres": []
+  },
+  {
+    "id": "656ibQgcoUQrUPdhQWRcI3",
+    "name": "SOMMA",
+    "genres": []
+  },
+  {
+    "id": "4WMnHCT0Xv28P86jIpPNDE",
+    "name": "Crystal Shards",
+    "genres": []
+  },
+  {
+    "id": "2iG0HNCECG2DxXxSUcMhEX",
+    "name": "Naxxos",
+    "genres": [
+      "tropical house"
+    ]
+  },
+  {
+    "id": "6CgedJ2dk5GP40gS1OmGgE",
+    "name": "AREZRA",
+    "genres": []
+  },
+  {
+    "id": "7gP3bB2nilZXLfPHJhMdvc",
+    "name": "Foster The People",
+    "genres": [
+      "indietronica",
+      "modern rock",
+      "rock"
+    ]
+  },
+  {
+    "id": "4FqPRilb0Ja0TKG3RS3y4s",
+    "name": "Steve Angello",
+    "genres": [
+      "disco house",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "progressive electro house",
+      "progressive house"
+    ]
+  },
+  {
+    "id": "263Gr9lGWR6ScnRGjxa3Ad",
+    "name": "DR. KUCHO!",
+    "genres": []
+  },
+  {
+    "id": "10hGPIDZi33LRaYRIq3Bh4",
+    "name": "Dimitri Vangelis & Wyman",
+    "genres": [
+      "edm",
+      "electro house",
+      "pop dance",
+      "pop edm",
+      "progressive electro house",
+      "progressive house"
+    ]
+  },
+  {
+    "id": "4oz8w4VbKJIgBUkLRCJgm7",
+    "name": "Kraddy",
+    "genres": [
+      "glitch hop"
+    ]
+  },
+  {
+    "id": "2jw70GZXlAI8QzWeY2bgRc",
+    "name": "Nelly Furtado",
+    "genres": [
+      "canadian latin",
+      "canadian pop",
+      "dance pop",
+      "pop",
+      "pop rap"
+    ]
+  },
+  {
+    "id": "1UQ5GQDdYPKgbIEn9sMiSg",
+    "name": "FC Kahuna",
+    "genres": [
+      "big beat",
+      "electronica"
+    ]
+  },
+  {
+    "id": "5cBeFQv3kBVP8o15CmPTKb",
+    "name": "Tez Cadey",
+    "genres": [
+      "deep tropical house",
+      "new french touch",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "1moxjboGR7GNWYIMWsRjgG",
+    "name": "Florence + The Machine",
+    "genres": [
+      "baroque pop",
+      "pop",
+      "uk alternative pop"
+    ]
+  },
+  {
+    "id": "5iPtkyoEOCILhwFgl2a2d3",
+    "name": "Bearcubs",
+    "genres": [
+      "indie r&b",
+      "indie soul",
+      "vapor soul",
+      "vapor twitch"
+    ]
+  },
+  {
+    "id": "2RaDfvZvHk3S4N88mVD9dg",
+    "name": "Jinx McGee",
+    "genres": []
+  },
+  {
+    "id": "45Ui3GdcxzbdJhhTtZLXO8",
+    "name": "Aso",
+    "genres": [
+      "chillhop",
+      "lo-fi beats"
+    ]
+  },
+  {
+    "id": "65EXuYHVoehCKqp0kOS6px",
+    "name": "Parov Stelar",
+    "genres": [
+      "balkan beats",
+      "downtempo",
+      "electro swing",
+      "nu jazz",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "24DO0PijjITGIEWsO8XaPs",
+    "name": "Nora En Pure",
+    "genres": [
+      "deep house",
+      "edm",
+      "electra",
+      "house",
+      "progressive house",
+      "swiss pop",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "16KSSLMXOdKQ2MHt9bOHTG",
+    "name": "Tough Love",
+    "genres": [
+      "deep groove house",
+      "house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "4BnMyJtBmDJptCeYOkASQR",
+    "name": "NekliFF",
+    "genres": [
+      "groove room"
+    ]
+  },
+  {
+    "id": "6ysKfYgiKUTMCuq2fSTLK3",
+    "name": "xander.",
+    "genres": [
+      "lo-fi beats"
+    ]
+  },
+  {
+    "id": "1Bs8cPUzK6GoDDj9Zw9X32",
+    "name": "Jim Tonique",
+    "genres": [
+      "groove room"
+    ]
+  },
+  {
+    "id": "0ZSLz27xUnI816MMtYfLMI",
+    "name": "Ten Ven",
+    "genres": []
+  },
+  {
+    "id": "2seqyYXetmWG6wcvbDCGyh",
+    "name": "Hott 22",
+    "genres": [
+      "disco house",
+      "vocal house"
+    ]
+  },
+  {
+    "id": "1gALaWbNDnwS2ECV09sn2A",
+    "name": "Nightcrawlers",
+    "genres": [
+      "disco house",
+      "hip house",
+      "vocal house"
+    ]
+  },
+  {
+    "id": "3TaUSUXn41GixL7zbvrIDt",
+    "name": "A-Trak",
+    "genres": [
+      "canadian electronic",
+      "electro house",
+      "electronic trap",
+      "turntablism"
+    ]
+  },
+  {
+    "id": "5gbODzbWS8f4glRwFF90Mn",
+    "name": "Oliver Schmitz",
+    "genres": [
+      "funky tech house"
+    ]
+  },
+  {
+    "id": "5rATH049aVcH3W1RIoiU1g",
+    "name": "Dmitri Saidi",
+    "genres": []
+  },
+  {
+    "id": "3ph6BKBPsjP7Vhtd1IXhkc",
+    "name": "Poldoore",
+    "genres": [
+      "chillhop",
+      "new french touch"
+    ]
+  },
+  {
+    "id": "4bazJLWIv8CuqmgxJRiGqo",
+    "name": "Just Kiddin",
+    "genres": [
+      "deep groove house",
+      "edm",
+      "house",
+      "pop dance",
+      "pop edm",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "1KpCi9BOfviCVhmpI4G2sY",
+    "name": "Tchami",
+    "genres": [
+      "bass house",
+      "deep groove house",
+      "edm",
+      "electro house",
+      "future house",
+      "house",
+      "pop dance",
+      "progressive house"
+    ]
+  },
+  {
+    "id": "3cnAJv9gydgm52KFIsdvO8",
+    "name": "Ferreck Dawn",
+    "genres": [
+      "deep groove house",
+      "deep house",
+      "disco house",
+      "edm",
+      "house",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "2G8UkPZnQ8i78L8TfqP1X6",
+    "name": "Christian Leave",
+    "genres": [
+      "indie pop",
+      "modern rock"
+    ]
+  },
+  {
+    "id": "7Ln80lUS6He07XvHI8qqHH",
+    "name": "Arctic Monkeys",
+    "genres": [
+      "garage rock",
+      "modern rock",
+      "permanent wave",
+      "rock",
+      "sheffield indie"
+    ]
+  },
+  {
+    "id": "3cnAJv9gydgm52KFIsdvO8",
+    "name": "Ferreck Dawn",
+    "genres": [
+      "deep groove house",
+      "deep house",
+      "disco house",
+      "edm",
+      "house",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "0GG2cWaonE4JPrjcCCQ1EG",
+    "name": "SG Lewis",
+    "genres": [
+      "edm",
+      "indie soul",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "5zOgJO7Uyh5ALdB7Ts9vxt",
+    "name": "Sean Blanc",
+    "genres": []
+  },
+  {
+    "id": "1n6KR5r29Zj7X33Ey1pod0",
+    "name": "Angelou",
+    "genres": [
+      "lithuanian pop"
+    ]
+  },
+  {
+    "id": "6Xkj2NJe58E7jVCIZ0rTMC",
+    "name": "Bluford Duck",
+    "genres": []
+  },
+  {
+    "id": "4O71i7ke5iIBX6RNSFoZbS",
+    "name": "trentemøller",
+    "genres": [
+      "danish electronic",
+      "danish electropop",
+      "electronica",
+      "microhouse",
+      "minimal techno"
+    ]
+  },
+  {
+    "id": "4Zdbr0JJj9SXMDJfus1mNs",
+    "name": "Ali Bakgor",
+    "genres": [
+      "turkish deep house",
+      "turkish edm"
+    ]
+  },
+  {
+    "id": "4VNQWV2y1E97Eqo2D5UTjx",
+    "name": "Gorgon City",
+    "genres": [
+      "deep groove house",
+      "edm",
+      "future garage",
+      "house",
+      "pop dance",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "3pmXPi5BquwVHdpHq6eed3",
+    "name": "Mason Wright",
+    "genres": []
+  },
+  {
+    "id": "4pugYBYlQfhhuNkbwmmx0a",
+    "name": "DJ Jose",
+    "genres": [
+      "dutch trance"
+    ]
+  },
+  {
+    "id": "7jEzKif1MJE7wODAuWBNOR",
+    "name": "Fabricio Pecanha",
+    "genres": [
+      "brazilian house"
+    ]
+  },
+  {
+    "id": "3ZWPvw7Ntnnd9viQJFkak9",
+    "name": "Oliver Böll",
+    "genres": []
+  },
+  {
+    "id": "0lM9sKjSzEzcQZZeFlITzy",
+    "name": "Robin Tayger",
+    "genres": [
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "3BmGtnKgCSGYIUhmivXKWX",
+    "name": "Kelly Clarkson",
+    "genres": [
+      "dance pop",
+      "pop",
+      "post-teen pop",
+      "talent show"
+    ]
+  },
+  {
+    "id": "6QRSTscVFkgkqDCNejbVdW",
+    "name": "DKDAZ",
+    "genres": [
+      "cumbia sonidera"
+    ]
+  },
+  {
+    "id": "6kz53iCdBSqhQCZ21CoLcc",
+    "name": "Culture Club",
+    "genres": [
+      "disco",
+      "europop",
+      "mellow gold",
+      "new romantic",
+      "new wave",
+      "new wave pop",
+      "soft rock",
+      "synthpop"
+    ]
+  },
+  {
+    "id": "4gSrksboUZ0u6MSIgRJyBg",
+    "name": "John Gold",
+    "genres": []
+  },
+  {
+    "id": "3JlSc5y4TTi8H0mszwjKPk",
+    "name": "Christian Corsi",
+    "genres": []
+  },
+  {
+    "id": "1sQ1gegnvsC0r1OVZHMq5r",
+    "name": "Club Soda",
+    "genres": []
+  },
+  {
+    "id": "5bXGHYmmARo1ixC6mGHIge",
+    "name": "Kanita",
+    "genres": [
+      "albanian pop"
+    ]
+  },
+  {
+    "id": "6vNe5MINTo5QZyR08sBOBA",
+    "name": "Anna Naklab",
+    "genres": [
+      "german dance"
+    ]
+  },
+  {
+    "id": "12nEr6QOfSKkiTXjEp8tBB",
+    "name": "MELON",
+    "genres": [
+      "lo-fi cover",
+      "slap house"
+    ]
+  },
+  {
+    "id": "4gGD7nrLZRnnCSz3KGEu4R",
+    "name": "Township Rebellion",
+    "genres": []
+  },
+  {
+    "id": "4uiMn2g0pgTrhN096QJhbp",
+    "name": "Borgeous",
+    "genres": [
+      "edm",
+      "electro house",
+      "pop dance",
+      "pop edm",
+      "progressive electro house",
+      "progressive house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "1hMK7lCVc8zlj123kzmG8C",
+    "name": "Shadefir",
+    "genres": []
+  },
+  {
+    "id": "4FCzCS0KEgb0rgySWINItO",
+    "name": "CID",
+    "genres": [
+      "bass house",
+      "deep groove house",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance"
+    ]
+  },
+  {
+    "id": "3vy8oQAubj1IykJLLqvVFC",
+    "name": "Gregor Tresher",
+    "genres": [
+      "frankfurt electronic",
+      "german techno",
+      "microhouse",
+      "minimal techno",
+      "tech house"
+    ]
+  },
+  {
+    "id": "3FzG2HgsgPRfwpX1qSK1g8",
+    "name": "Mark Dekoda",
+    "genres": [
+      "dark techno",
+      "hard minimal techno"
+    ]
+  },
+  {
+    "id": "0rasA5Z5h1ITtHelCpfu9R",
+    "name": "Paul Kalkbrenner",
+    "genres": [
+      "electronica",
+      "german techno",
+      "leipzig electronic",
+      "minimal techno",
+      "tech house"
+    ]
+  },
+  {
+    "id": "1o3h9A8UXmaPyz7nEXdJD4",
+    "name": "Tolvai Reni",
+    "genres": []
+  },
+  {
+    "id": "2dQwiQgqHU4SUJjypm7i1H",
+    "name": "Ganzfeld Effect",
+    "genres": []
+  },
+  {
+    "id": "3TVXtAsR1Inumwj472S9r4",
+    "name": "Drake",
+    "genres": [
+      "canadian hip hop",
+      "canadian pop",
+      "hip hop",
+      "rap",
+      "toronto rap"
+    ]
+  },
+  {
+    "id": "4z4HxNMCN7bg8ZddRHGPls",
+    "name": "Drums Of Death",
+    "genres": []
+  },
+  {
+    "id": "1q1LbajtP5EnODflcVdADE",
+    "name": "Topsy Crettz",
+    "genres": [
+      "groove room"
+    ]
+  },
+  {
+    "id": "0nUF7iT0e6D5xEl743Jfu3",
+    "name": "Icarus",
+    "genres": [
+      "house"
+    ]
+  },
+  {
+    "id": "6lpgILqrNhqrJCt2NFnEfp",
+    "name": "Reynor",
+    "genres": []
+  },
+  {
+    "id": "6e3zOiHLakN92h1ZJXK2JC",
+    "name": "Soni Shae",
+    "genres": []
+  },
+  {
+    "id": "3IHsD0sttucHrX8b32Vcab",
+    "name": "BROHUG",
+    "genres": [
+      "bass house",
+      "edm",
+      "electro house"
+    ]
+  },
+  {
+    "id": "1N9n8MSxrr4Emhb566493b",
+    "name": "Morgan Page",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "pop dance",
+      "pop edm",
+      "progressive house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "2dKZypJTEFmqwehvMnIsWM",
+    "name": "Zak Joshua",
+    "genres": []
+  },
+  {
+    "id": "1KNafMiV5Y3OhOr1A5tWwb",
+    "name": "JYYE",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop edm"
+    ]
+  },
+  {
+    "id": "1BQP9nwv3sKsFJ9YHIEqOY",
+    "name": "Sjamel",
+    "genres": []
+  },
+  {
+    "id": "3cWX0F6cgFNJ9XJ9uoCHhd",
+    "name": "Lost Mode",
+    "genres": []
+  },
+  {
+    "id": "0btQweFU4lK5scEvQV3odk",
+    "name": "Rafaël Murillo",
+    "genres": []
+  },
+  {
+    "id": "46ZeiJ4AMxB3PomQ347EXn",
+    "name": "Valente Alvarez",
+    "genres": []
+  },
+  {
+    "id": "5ndtuLbLuO61KA2XWjamnj",
+    "name": "Wolkenmusik",
+    "genres": [
+      "dinner jazz"
+    ]
+  },
+  {
+    "id": "5OJ6h1wSbXzPUJQsJRBdb1",
+    "name": "Severin Borer",
+    "genres": [
+      "groove room"
+    ]
+  },
+  {
+    "id": "44T94QQEc60Jf7kqGY6Rip",
+    "name": "Lee Foss",
+    "genres": [
+      "deep disco house",
+      "house"
+    ]
+  },
+  {
+    "id": "4MXUO7sVCaFgFjoTI5ox5c",
+    "name": "Sufjan Stevens",
+    "genres": [
+      "baroque pop",
+      "chamber pop",
+      "pop",
+      "singer-songwriter"
+    ]
+  },
+  {
+    "id": "2zIlEhyZ7MzIy0YYMbE84x",
+    "name": "Dave Adamec",
+    "genres": []
+  },
+  {
+    "id": "77AiFEVeAVj2ORpC85QVJs",
+    "name": "Steve Aoki",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "pop dance",
+      "pop rap",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "73Msd8rknjBghcGQiZ1mgh",
+    "name": "Tom Zanetti",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop dance",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "0bUZrFj7rstq07E4iAJHgZ",
+    "name": "KC Lights",
+    "genres": [
+      "deep groove house",
+      "edm",
+      "house",
+      "scottish electronic",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "6fchbydDZlEemGC9wiovuj",
+    "name": "Vlossom",
+    "genres": [
+      "australian electropop"
+    ]
+  },
+  {
+    "id": "20L5MecnuNujUE6imrfK0Q",
+    "name": "York",
+    "genres": [
+      "german techno",
+      "german trance",
+      "progressive house",
+      "trance"
+    ]
+  },
+  {
+    "id": "2cQ47iUYGq4lHTtQ5GKMr9",
+    "name": "Dave202",
+    "genres": [
+      "hard trance"
+    ]
+  },
+  {
+    "id": "7DHL9i5WtG0NrSuHZsqYyK",
+    "name": "Leventina",
+    "genres": [
+      "progressive electro house"
+    ]
+  },
+  {
+    "id": "792OYnsrG3nrC4HDDSEwpq",
+    "name": "Pablo Bravas",
+    "genres": []
+  },
+  {
+    "id": "5OIPyNChETp1tZW4s2Sc0R",
+    "name": "RIBB[]N",
+    "genres": []
+  },
+  {
+    "id": "0nJcDqY6ox4kHB92AuRA8j",
+    "name": "Blinkie",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop dance",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "240wlM8vDrf6S4zCyzGj2W",
+    "name": "CamelPhat",
+    "genres": [
+      "deep tech house",
+      "edm",
+      "house",
+      "progressive house"
+    ]
+  },
+  {
+    "id": "2yKm5l8fjv7wjP4xFbVbjE",
+    "name": "Funky Craig",
+    "genres": []
+  },
+  {
+    "id": "1ljU5FtrJPSMNfbi6h84PE",
+    "name": "Hamlin Dead",
+    "genres": []
+  },
+  {
+    "id": "0gSAxSvAApQc71cTpoXDFu",
+    "name": "Tenille Arts",
+    "genres": [
+      "canadian contemporary country",
+      "contemporary country",
+      "country",
+      "country pop"
+    ]
+  },
+  {
+    "id": "5nHbbf2sHXY54XA8PSsy5e",
+    "name": "Bev Rage and the Drinks",
+    "genres": []
+  },
+  {
+    "id": "726bVRI3QPQIbCr4qIGaV4",
+    "name": "Selace",
+    "genres": [
+      "uk house"
+    ]
+  },
+  {
+    "id": "3CfH3WZPzbk5mNDWXpGIy6",
+    "name": "Sander Kleinenberg",
+    "genres": [
+      "dutch edm"
+    ]
+  },
+  {
+    "id": "2X2dVMgMz4cx8bMwwK6rL3",
+    "name": "Carter Winter",
+    "genres": [
+      "contemporary country",
+      "country pop"
+    ]
+  },
+  {
+    "id": "1JbemQ1fPt2YmSLjAFhPBv",
+    "name": "Chayanne",
+    "genres": [
+      "latin pop",
+      "puerto rican pop",
+      "tropical"
+    ]
+  },
+  {
+    "id": "5xQaB2JfKU3pi6IqRsHy4G",
+    "name": "farfetch'd",
+    "genres": [
+      "swedish tropical house"
+    ]
+  },
+  {
+    "id": "0rCjhB7bSAgpshTquzm1I6",
+    "name": "KAASI",
+    "genres": [
+      "indie soul"
+    ]
+  },
+  {
+    "id": "6OFZSmtxDquMkX2XZJSN6y",
+    "name": "PALASTIC",
+    "genres": [
+      "austrian pop"
+    ]
+  },
+  {
+    "id": "2Bb57H1EnnHxtpSyOAJF8l",
+    "name": "Frostydasnowmann",
+    "genres": [
+      "cali rap",
+      "viral rap"
+    ]
+  },
+  {
+    "id": "0wohgObQUIPJvrpsUyVYPF",
+    "name": "Indian Drive",
+    "genres": []
+  },
+  {
+    "id": "3w2LtSyvpn9RStvIS2VGGc",
+    "name": "Gab Hydes",
+    "genres": []
+  },
+  {
+    "id": "4wO0kHiOwf8l9VMJJN9HmG",
+    "name": "Shoffy",
+    "genres": [
+      "chill pop",
+      "electropop",
+      "indie poptimism",
+      "la pop",
+      "pop"
+    ]
+  },
+  {
+    "id": "7c7ZeiPKWHf2E1rsf1P4VF",
+    "name": "Medina",
+    "genres": [
+      "danish pop"
+    ]
+  },
+  {
+    "id": "205i7E8fNVfojowcQSfK9m",
+    "name": "Dom Dolla",
+    "genres": [
+      "australian house",
+      "deep groove house",
+      "edm",
+      "house",
+      "pop dance"
+    ]
+  },
+  {
+    "id": "7y5eQxB9m7EffDL7qm6HzN",
+    "name": "Joinnus",
+    "genres": [
+      "hardwave"
+    ]
+  },
+  {
+    "id": "1mFGfrveXbpolppPgO29Io",
+    "name": "TCTS",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop dance",
+      "pop edm",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "4M718Ka3GWzb9h1XuWgXVl",
+    "name": "Diversion",
+    "genres": [
+      "progressive house"
+    ]
+  },
+  {
+    "id": "3bSjUrJcV80nkkypJHElmv",
+    "name": "Birdee",
+    "genres": [
+      "funky house"
+    ]
+  },
+  {
+    "id": "1Pu5AeHaEy3Ha5yTC2UZV6",
+    "name": "Sci-Fi Godfather",
+    "genres": []
+  },
+  {
+    "id": "2KOqtDxp2na3uUfP37R7VK",
+    "name": "New Wolves",
+    "genres": []
+  },
+  {
+    "id": "5EmEZjq8eHEC6qFnT63Lza",
+    "name": "Tinlicker",
+    "genres": [
+      "edm"
+    ]
+  },
+  {
+    "id": "0bMKf3lIYR9GaNTdFKkTOr",
+    "name": "Zonderling",
+    "genres": [
+      "edm",
+      "electro house",
+      "progressive house"
+    ]
+  },
+  {
+    "id": "2WBJQGf1bT1kxuoqziH5g4",
+    "name": "Purple Disco Machine",
+    "genres": [
+      "deep house",
+      "house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "7xBGi7Eign0fX7jGQj5KlJ",
+    "name": "GRACEY",
+    "genres": [
+      "alt z",
+      "uk pop"
+    ]
+  },
+  {
+    "id": "3L3eVOR4ra6ZGpAta7xlGV",
+    "name": "Ercola",
+    "genres": []
+  },
+  {
+    "id": "7jZM5w05mGhw6wTB1okhD9",
+    "name": "ATB",
+    "genres": [
+      "german dance",
+      "german techno",
+      "german trance",
+      "trance"
+    ]
+  },
+  {
+    "id": "00FQb4jTyendYWaN8pK0wa",
+    "name": "Lana Del Rey",
+    "genres": [
+      "art pop",
+      "pop"
+    ]
+  },
+  {
+    "id": "1vCWHaC5f2uS3yhpwWbIA6",
+    "name": "Avicii",
+    "genres": [
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance",
+      "pop rap"
+    ]
+  },
+  {
+    "id": "2tbvDi9eXf9XXp06LupkED",
+    "name": "Alice Deejay",
+    "genres": [
+      "eurodance"
+    ]
+  },
+  {
+    "id": "1kx78nQhmITF7OFvivyN4v",
+    "name": "Rui Da Silva",
+    "genres": [
+      "disco house",
+      "vocal house"
+    ]
+  },
+  {
+    "id": "1C60viSZv6BoYtrnkZ44g5",
+    "name": "Nadia Ali",
+    "genres": [
+      "edm",
+      "vocal trance"
+    ]
+  },
+  {
+    "id": "7eYXtOjJGhrM16cK2hRmnR",
+    "name": "Leftwing : Kody",
+    "genres": [
+      "deep groove house",
+      "house",
+      "uk tech house"
+    ]
+  },
+  {
+    "id": "1IgLSPF7mCbDA9rJmDzqji",
+    "name": "Spencer Ramsay",
+    "genres": []
+  },
+  {
+    "id": "3KdFNDrWsHS0EePg8svgRl",
+    "name": "Heard Right",
+    "genres": []
+  },
+  {
+    "id": "2YuGcy0A3VKg9jRbadzoJL",
+    "name": "POOLCLVB",
+    "genres": [
+      "australian house",
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+    "name": "Tiësto",
+    "genres": [
+      "big room",
+      "brostep",
+      "dance pop",
+      "dutch edm",
+      "edm",
+      "house",
+      "pop",
+      "pop dance",
+      "slap house",
+      "trance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "6EcpgZnQhBHbiIfyQPGiGu",
+    "name": "Mindsight",
+    "genres": [
+      "munich electronic"
+    ]
+  },
+  {
+    "id": "7oOfZSYouCcyk13dNrOpiX",
+    "name": "Alex Parker",
+    "genres": [
+      "romanian pop"
+    ]
+  },
+  {
+    "id": "2aUr9B6iwO3eYiEHJIpB0M",
+    "name": "Kwaku Asante",
+    "genres": [
+      "alternative r&b",
+      "chill r&b",
+      "indie r&b",
+      "indie soul",
+      "uk contemporary r&b"
+    ]
+  },
+  {
+    "id": "2BehImf74098qd1GG5l4ow",
+    "name": "XYPO",
+    "genres": []
+  },
+  {
+    "id": "77qukKzmdI5BeMBR7WGUrN",
+    "name": "Aaron Smith",
+    "genres": [
+      "chicago house"
+    ]
+  },
+  {
+    "id": "1hzfo8twXdOegF3xireCYs",
+    "name": "Milky Chance",
+    "genres": [
+      "german pop"
+    ]
+  },
+  {
+    "id": "6zGCrS2y63IEUJfyn9Bpuc",
+    "name": "TEEMID",
+    "genres": [
+      "new french touch",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "4n7LqAJhu3k6rrKMu3VfDa",
+    "name": "Matvey Emerson",
+    "genres": [
+      "covertronica",
+      "groove room"
+    ]
+  },
+  {
+    "id": "1kR99O4MgSTasyeJh8UFCg",
+    "name": "DJ Koze",
+    "genres": [
+      "deep house",
+      "electronica",
+      "float house",
+      "german techno",
+      "hamburg electronic",
+      "microhouse",
+      "minimal techno",
+      "tech house"
+    ]
+  },
+  {
+    "id": "1AjG4kPZtTlEhqkrLC1yno",
+    "name": "Reflekt",
+    "genres": []
+  },
+  {
+    "id": "1oZePJcmTIJnWnudNVBVQ7",
+    "name": "NVOY",
+    "genres": [
+      "deep groove house",
+      "house"
+    ]
+  },
+  {
+    "id": "4eQKo2fvEqEbdopHhSjlug",
+    "name": "Kaleem Taylor",
+    "genres": [
+      "indie r&b",
+      "pop r&b",
+      "trap soul",
+      "uk contemporary r&b"
+    ]
+  },
+  {
+    "id": "3VX8sq17N1pJ6nStjyl0In",
+    "name": "Boogie Pimps",
+    "genres": [
+      "disco house"
+    ]
+  },
+  {
+    "id": "1FWybrAwiSa0zKibdLfZZr",
+    "name": "Blue Foundation",
+    "genres": [
+      "dream pop",
+      "electronica"
+    ]
+  },
+  {
+    "id": "4WFtYn5RyU8VGPpPyW9Pxw",
+    "name": "M-22",
+    "genres": [
+      "dance pop",
+      "deep groove house",
+      "edm",
+      "house",
+      "pop dance",
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "2YkhzcYyxJvtl5W6pY0PuF",
+    "name": "CAMO",
+    "genres": [
+      "korean r&b"
+    ]
+  },
+  {
+    "id": "2wUjUUtkb5lvLKcGKsKqsR",
+    "name": "Alessia Cara",
+    "genres": [
+      "canadian contemporary r&b",
+      "canadian pop",
+      "dance pop",
+      "electropop",
+      "pop",
+      "post-teen pop"
+    ]
+  },
+  {
+    "id": "4dM6NDYSfLcspt8GLoT5aE",
+    "name": "Hippie Sabotage",
+    "genres": [
+      "edm",
+      "electronic trap"
+    ]
+  },
+  {
+    "id": "1TqcQwnBqloJrKkGs4l4LT",
+    "name": "D-Nox",
+    "genres": []
+  },
+  {
+    "id": "5iMUho98faEp2w6j5p44PH",
+    "name": "j'san",
+    "genres": [
+      "chillhop",
+      "lo-fi beats"
+    ]
+  },
+  {
+    "id": "1jLcY4U2jXPcyzUg6FANBq",
+    "name": "Art of November",
+    "genres": [
+      "beach house"
+    ]
+  },
+  {
+    "id": "4dQHSSmUOllGIjiXbadM2U",
+    "name": "FJORD",
+    "genres": [
+      "ocean"
+    ]
+  },
+  {
+    "id": "1lc8mnyGrCLtPhCoWjRxjM",
+    "name": "Flight Facilities",
+    "genres": [
+      "alternative dance",
+      "aussietronica",
+      "australian dance",
+      "edm",
+      "indie soul",
+      "nu disco"
+    ]
+  },
+  {
+    "id": "77tT1kLj6mCWtFNqiOmP9H",
+    "name": "Daryl Hall & John Oates",
+    "genres": [
+      "album rock",
+      "classic rock",
+      "mellow gold",
+      "rock",
+      "soft rock",
+      "yacht rock"
+    ]
+  },
+  {
+    "id": "7d96RW5Vix23AiCHr3mf3D",
+    "name": "Anna Lunoe",
+    "genres": [
+      "bass house",
+      "electra",
+      "nu disco"
+    ]
+  },
+  {
+    "id": "0BB7wMyRwT93gNrtzgCaz5",
+    "name": "MUNKY",
+    "genres": []
+  },
+  {
+    "id": "7sGZqnvQxV7qbqF9xbGxZq",
+    "name": "Sky.High",
+    "genres": [
+      "lo-fi beats"
+    ]
+  },
+  {
+    "id": "3qBrg0c1loxePyWQxp6F75",
+    "name": "Shahadi Wright Joseph",
+    "genres": []
+  },
+  {
+    "id": "2FYj4Dc7l6f8JyLB2I3eLl",
+    "name": "Oscuro",
+    "genres": []
+  },
+  {
+    "id": "1gLcjMrQA0camEmid1nBHO",
+    "name": "Henry Krinkle",
+    "genres": [
+      "tropical house"
+    ]
+  },
+  {
+    "id": "3xsaixRLT6xSUDjtLehSyj",
+    "name": "Tontario",
+    "genres": [
+      "finnish edm"
+    ]
+  },
+  {
+    "id": "7c9X4h9akzgMDrdS44YwIB",
+    "name": "Pensees",
+    "genres": [
+      "russian electronic",
+      "wave"
+    ]
+  },
+  {
+    "id": "7tx1v32KdbYBuU5LaMji6z",
+    "name": "Detechtive",
+    "genres": []
+  },
+  {
+    "id": "6OtLSLtibimHV8qPKASQOS",
+    "name": "Mit-Rich",
+    "genres": []
+  },
+  {
+    "id": "6bjHQI8Av7heJ2a3iHysj2",
+    "name": "Ryan Zoidis",
+    "genres": []
+  },
+  {
+    "id": "24zj84GShUIcBQYq6VpOYW",
+    "name": "Duke Deuce",
+    "genres": [
+      "memphis hip hop",
+      "southern hip hop",
+      "trap",
+      "viral rap"
+    ]
+  },
+  {
+    "id": "2vz513fFOvrrkuISQd1CYG",
+    "name": "Treyy G",
+    "genres": [
+      "melbourne bounce",
+      "melbourne bounce international"
+    ]
+  },
+  {
+    "id": "32jEBhDRBuS4l4achhHyVM",
+    "name": "Skyr0",
+    "genres": []
+  },
+  {
+    "id": "1ng3xz2dyz57Z1WpnzM2G7",
+    "name": "Pogo",
+    "genres": [
+      "plunderphonics"
+    ]
+  },
+  {
+    "id": "4zjO8Jhi2pciJJzd8Q6rga",
+    "name": "Unlike Pluto",
+    "genres": [
+      "modern alternative rock"
+    ]
+  },
+  {
+    "id": "5d649pWJhCaGTei93Ez0jZ",
+    "name": "Unlike Pluto & Joanna Jones",
+    "genres": []
+  },
+  {
+    "id": "6vXYoy8ouRVib302zxaxFF",
+    "name": "Lorna Shore",
+    "genres": [
+      "blackened deathcore",
+      "symphonic deathcore"
+    ]
+  },
+  {
+    "id": "3w4VAlllkAWI6m0AV0Gn6a",
+    "name": "Hurts",
+    "genres": [
+      "metropopolis",
+      "neo-synthpop"
+    ]
+  },
+  {
+    "id": "12q8WblexNLJ0QGejfoeXK",
+    "name": "Beatamines",
+    "genres": [
+      "deep euro house",
+      "organic house"
+    ]
+  },
+  {
+    "id": "7fHBCvay50vW5zbFsXMEuX",
+    "name": "Blacksheepz",
+    "genres": []
+  },
+  {
+    "id": "7Myky2n7ro7FEMaf0HyHtE",
+    "name": "Urbanski",
+    "genres": [
+      "polish electronica"
+    ]
+  },
+  {
+    "id": "7vPwWTnoNQN2E1nAHclTll",
+    "name": "Breton Vivian",
+    "genres": []
+  },
+  {
+    "id": "0ncLUhzYnidjOPYR2DPd7d",
+    "name": "Emily Browning",
+    "genres": []
+  },
+  {
+    "id": "6S0GHTqz5sxK5f9HtLXn9q",
+    "name": "Garbage",
+    "genres": [
+      "alternative rock",
+      "dance pop",
+      "dance rock",
+      "electronic rock",
+      "lilith",
+      "permanent wave",
+      "pop rock",
+      "rock"
+    ]
+  },
+  {
+    "id": "4yvcSjfu4PC0CYQyLy4wSq",
+    "name": "Glass Animals",
+    "genres": [
+      "gauze pop",
+      "indietronica",
+      "shiver pop"
+    ]
+  },
+  {
+    "id": "4YZ9lGP36PbHFiGi8Gp5YK",
+    "name": "Nicole Markson",
+    "genres": []
+  },
+  {
+    "id": "4RVnAU35WRWra6OZ3CbbMA",
+    "name": "Kylie Minogue",
+    "genres": [
+      "australian dance",
+      "australian pop",
+      "dance pop",
+      "electropop",
+      "eurodance",
+      "europop",
+      "new wave pop",
+      "pop"
+    ]
+  },
+  {
+    "id": "3swqKb9ThB6V60oQEFyDu0",
+    "name": "Facading",
+    "genres": [
+      "gaming edm",
+      "traprun"
+    ]
+  },
+  {
+    "id": "5EehXjjMktLuJmbRsM7YfB",
+    "name": "Disciples",
+    "genres": [
+      "deep groove house",
+      "disco house",
+      "edm",
+      "house",
+      "pop dance",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "3T0HSMgUpuH1hXbT1JPwQF",
+    "name": "Redondo",
+    "genres": [
+      "deep groove house",
+      "deep tech house",
+      "disco house",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "2XiiUuK68XNdHaHOAF5hnT",
+    "name": "Curbi",
+    "genres": [
+      "bass house",
+      "edm",
+      "electro house",
+      "future house",
+      "house",
+      "pop dance",
+      "progressive house"
+    ]
+  },
+  {
+    "id": "5sL9uDMwceYHPknnCLAAwJ",
+    "name": "GusGus",
+    "genres": [
+      "alternative dance",
+      "big beat",
+      "electronica",
+      "icelandic electronic",
+      "icelandic pop",
+      "trip hop"
+    ]
+  },
+  {
+    "id": "5squ8uM6fhMQY71t9xobJC",
+    "name": "Kosheen",
+    "genres": [
+      "big beat",
+      "electronica",
+      "trip hop"
+    ]
+  },
+  {
+    "id": "6FXMGgJwohJLUSr5nVlf9X",
+    "name": "Massive Attack",
+    "genres": [
+      "downtempo",
+      "electronica",
+      "trip hop"
+    ]
+  },
+  {
+    "id": "1IvuqaKdjkwwTzepomiQSM",
+    "name": "Jutrø",
+    "genres": [
+      "wave"
+    ]
+  },
+  {
+    "id": "2nszamLjZFgu3Yx77mKxuC",
+    "name": "UNKLE",
+    "genres": [
+      "big beat",
+      "electronica",
+      "ninja",
+      "trip hop"
+    ]
+  },
+  {
+    "id": "1oobYLromCfJh2nx8pfZiI",
+    "name": "Mar Vei",
+    "genres": [
+      "chill beats"
+    ]
+  },
+  {
+    "id": "7i9j813KFoSBMldGqlh2Z1",
+    "name": "Riton",
+    "genres": [
+      "dance pop",
+      "edm",
+      "house",
+      "pop dance",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "5SlqWFcBxC9eN0U8ZXz5eh",
+    "name": "Notalike",
+    "genres": []
+  },
+  {
+    "id": "5zfDGV6C2Xwns1g773GF3N",
+    "name": "Magnificence",
+    "genres": [
+      "big room",
+      "electro house",
+      "progressive electro house",
+      "sky room"
+    ]
+  },
+  {
+    "id": "47v4vGA1qCl7hyevSkpRM7",
+    "name": "Futuristic Polar Bears",
+    "genres": [
+      "big room",
+      "electro house",
+      "progressive electro house",
+      "sky room"
+    ]
+  },
+  {
+    "id": "4sbnZxKTcrri3W099W0wuq",
+    "name": "The Golden Boy",
+    "genres": [
+      "deep groove house",
+      "uk tech house"
+    ]
+  },
+  {
+    "id": "4Jv9I6DAbcjDa8HGFAjv94",
+    "name": "The Aston Shuffle",
+    "genres": [
+      "australian dance",
+      "australian house",
+      "edm"
+    ]
+  },
+  {
+    "id": "5qYCZ5FQuzZSjOnesvuYiD",
+    "name": "Preditah",
+    "genres": [
+      "bass house",
+      "bassline",
+      "birmingham grime",
+      "grime",
+      "instrumental grime"
+    ]
+  },
+  {
+    "id": "0tMr0e1EQZ0Vci7EHz2bM9",
+    "name": "Shadow Child",
+    "genres": [
+      "deep groove house",
+      "house",
+      "minimal tech house"
+    ]
+  },
+  {
+    "id": "6EESgccg1PmqxfM8DObDDE",
+    "name": "Who's Calling",
+    "genres": []
+  },
+  {
+    "id": "3X99p7B7g1mSgjDeQwb0dp",
+    "name": "Rama Duke",
+    "genres": []
+  },
+  {
+    "id": "79ffq2PHS5TDmgnHhAyudW",
+    "name": "Louis Futon",
+    "genres": [
+      "electropop",
+      "future bass",
+      "vapor soul",
+      "vapor twitch"
+    ]
+  },
+  {
+    "id": "4CuipEvwcoQggmCV8jpKF9",
+    "name": "Michael Calfan",
+    "genres": [
+      "dance pop",
+      "deep groove house",
+      "deep house",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "pop edm",
+      "progressive electro house",
+      "progressive house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "3cQA9WH8liZfeja1DxcDYE",
+    "name": "Armand Van Helden",
+    "genres": [
+      "deep house",
+      "disco house",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "speed garage",
+      "tech house",
+      "vocal house"
+    ]
+  },
+  {
+    "id": "4IbUky1dWqlyVlMMTJXPI5",
+    "name": "King Henry",
+    "genres": [
+      "la pop",
+      "vapor soul"
+    ]
+  },
+  {
+    "id": "5mNpMP01Co4vXZ3U0fWP3C",
+    "name": "Camden Cox",
+    "genres": []
+  },
+  {
+    "id": "0xRXCcSX89eobfrshSVdyu",
+    "name": "MEDUZA",
+    "genres": [
+      "edm",
+      "electro house",
+      "pop",
+      "pop dance",
+      "pop house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "49H2dQUNhIlso7VNkS8nFR",
+    "name": "Freemasons",
+    "genres": [
+      "dance pop",
+      "disco house",
+      "diva house",
+      "electropop",
+      "vocal house"
+    ]
+  },
+  {
+    "id": "7vUJCRmF1if4uhMp2V3tRP",
+    "name": "Arman Cekin",
+    "genres": [
+      "bass trap"
+    ]
+  },
+  {
+    "id": "6L74J3BzylQkJF7rBXTpgT",
+    "name": "SuperFitness",
+    "genres": [
+      "workout product"
+    ]
+  },
+  {
+    "id": "1sFnZF93Z4NpEOnIZKX55s",
+    "name": "Michael Ford",
+    "genres": []
+  },
+  {
+    "id": "7Jj785137zNlJfDF6Bhkm6",
+    "name": "LOST YOU",
+    "genres": []
+  },
+  {
+    "id": "3pfQKkyELe3zxBQDgQP6Py",
+    "name": "Tim Legend",
+    "genres": []
+  },
+  {
+    "id": "7KigP1NA8s7IiVIxP5ndwJ",
+    "name": "Revelries",
+    "genres": [
+      "dutch edm"
+    ]
+  },
+  {
+    "id": "0gjzBmGl7Pimn8Dwvf5CtG",
+    "name": "Silversage",
+    "genres": []
+  },
+  {
+    "id": "4Q6nIcaBED8qUel8bBx6Cr",
+    "name": "Jax Jones",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "house",
+      "pop",
+      "pop dance",
+      "pop rap",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "6a4KLb4BJJNm3uJVKNEvWP",
+    "name": "GLDN",
+    "genres": []
+  },
+  {
+    "id": "2wX6xSig4Rig5kZU6ePlWe",
+    "name": "KSHMR",
+    "genres": [
+      "big room",
+      "edm",
+      "electro house",
+      "indian edm",
+      "pop dance",
+      "progressive electro house",
+      "slap house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "7CPgxHf6XDKoIMzx6JOLVF",
+    "name": "Kyle Meehan",
+    "genres": [
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "4HV7yKF3SRpY6I0gxu7hm9",
+    "name": "Kakkmaddafakka",
+    "genres": [
+      "bergen indie"
+    ]
+  },
+  {
+    "id": "7l7IyxqOyGDSU6iF4FzisA",
+    "name": "Adon",
+    "genres": [
+      "new french touch",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "5giHLR4kCj9DMuqQ5TP4K7",
+    "name": "Just Because",
+    "genres": []
+  },
+  {
+    "id": "6tbjWDEIzxoDsBA1FuhfPW",
+    "name": "Madonna",
+    "genres": [
+      "dance pop",
+      "pop"
+    ]
+  },
+  {
+    "id": "7jdFEYD2LTYjfwxOdlVjmc",
+    "name": "KALEO",
+    "genres": [
+      "icelandic indie",
+      "icelandic rock",
+      "modern alternative rock"
+    ]
+  },
+  {
+    "id": "3pfhIQd4vB7NqhYym9d5My",
+    "name": "Alex Aark",
+    "genres": []
+  },
+  {
+    "id": "5Rt7OtfJpjne2jW8qy9Kcz",
+    "name": "mark veins",
+    "genres": []
+  },
+  {
+    "id": "62lirbb6qJs4VOGpdCNHK8",
+    "name": "MILCK",
+    "genres": [
+      "la pop"
+    ]
+  },
+  {
+    "id": "5CBNhusqki2s2jp4Lo6i2L",
+    "name": "JLV",
+    "genres": [
+      "deep groove house",
+      "pop edm"
+    ]
+  },
+  {
+    "id": "2mET8bpTc6j2lm5YjVUeFq",
+    "name": "SugarHill Ddot",
+    "genres": []
+  },
+  {
+    "id": "2TBGPv6r4aX22rdRIoSX2S",
+    "name": "Cropper",
+    "genres": [
+      "bboy"
+    ]
+  },
+  {
+    "id": "482tFoPyYAl3JDPXHKGAQr",
+    "name": "Christian Nielsen",
+    "genres": [
+      "danish electronic"
+    ]
+  },
+  {
+    "id": "5y4NgF9HhK3EgWbfjLRX7e",
+    "name": "Quarantino",
+    "genres": [
+      "slap house"
+    ]
+  },
+  {
+    "id": "6LgR7bFuOxzCtVyHRg4OLa",
+    "name": "Alex Hobson",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop dance",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "3EzrsslwPiAb23Pe0665NS",
+    "name": "Pegasii",
+    "genres": [
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "2SHmJ9pvh1h1TXu2WulzL4",
+    "name": "Going Deeper",
+    "genres": [
+      "covertronica",
+      "edm",
+      "electro house",
+      "pop dance",
+      "pop edm",
+      "russian edm"
+    ]
+  },
+  {
+    "id": "5yCxNgRvygbliphSfbVX8g",
+    "name": "Aram MP3",
+    "genres": [
+      "armenian folk",
+      "armenian pop"
+    ]
+  },
+  {
+    "id": "5K4W6rqBFWDnAN6FQUkS6x",
+    "name": "Kanye West",
+    "genres": [
+      "chicago rap",
+      "rap"
+    ]
+  },
+  {
+    "id": "0Tob4H0FLtEONHU1MjpUEp",
+    "name": "Tinie Tempah",
+    "genres": [
+      "dance pop",
+      "edm",
+      "grime",
+      "house",
+      "pop dance",
+      "pop rap",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "4fIPBdK4awAR1W14u3v1J5",
+    "name": "LOVRA",
+    "genres": [
+      "german dance"
+    ]
+  },
+  {
+    "id": "60FV7KyxIH9FH1uq7u8inP",
+    "name": "The Shapeshifters",
+    "genres": [
+      "deep house",
+      "disco house",
+      "diva house",
+      "vocal house"
+    ]
+  },
+  {
+    "id": "2qPxiZiD34NtmokWN6RoP2",
+    "name": "King Topher",
+    "genres": []
+  },
+  {
+    "id": "4EFMHRFpgrpfp0AVEBp4m2",
+    "name": "Cyril Hahn",
+    "genres": []
+  },
+  {
+    "id": "2XyRpvWm2VvEzSk1TxJQsX",
+    "name": "XYconstant",
+    "genres": [
+      "deep groove house",
+      "house"
+    ]
+  },
+  {
+    "id": "5y9NnD1AZPcBVbDluRgiXS",
+    "name": "The Sixteen",
+    "genres": [
+      "british choir",
+      "choral",
+      "classical performance",
+      "early music",
+      "early music choir",
+      "early music ensemble",
+      "polyphony"
+    ]
+  },
+  {
+    "id": "5Nngx6kSXmrSiL248sEwmT",
+    "name": "Calippo",
+    "genres": [
+      "deep groove house",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "6n4LbMsm0XZmPVh362smaP",
+    "name": "Akora",
+    "genres": [
+      "groove room"
+    ]
+  },
+  {
+    "id": "3FLUBwpAnaIlIKeaBfsxFe",
+    "name": "Kito",
+    "genres": [
+      "electra",
+      "electropop",
+      "pop dance"
+    ]
+  },
+  {
+    "id": "7yY486g7XDENBKDCzY5JFb",
+    "name": "Whoom Zoom",
+    "genres": []
+  },
+  {
+    "id": "2R7k2SovVWGhTcvPx1JbQv",
+    "name": "T. Matthias",
+    "genres": [
+      "uk dance"
+    ]
+  },
+  {
+    "id": "20gsENnposVs2I4rQ5kvrf",
+    "name": "Sam Feldt",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "pop",
+      "pop dance",
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "5ee4yhrWOxaxvL77BoVpVR",
+    "name": "Lucky Luke",
+    "genres": [
+      "lithuanian electronic"
+    ]
+  },
+  {
+    "id": "5xUacP1mVGfiY7Zr9RskmS",
+    "name": "Sean Finn",
+    "genres": [
+      "german dance"
+    ]
+  },
+  {
+    "id": "390x0qxDdsMmN20RAwspbf",
+    "name": "Molly Kate Kestner",
+    "genres": [
+      "lds youth"
+    ]
+  },
+  {
+    "id": "5Qlt3zQ63Z99mNhuun0JAT",
+    "name": "Edwyn Collins",
+    "genres": [
+      "britpop",
+      "scottish new wave",
+      "solo wave"
+    ]
+  },
+  {
+    "id": "0ZRBa9pTfhhCsJW95F1ugg",
+    "name": "Yall",
+    "genres": []
+  },
+  {
+    "id": "5OyOddK42Hm0pENFDWxn39",
+    "name": "Ahmet Kilic",
+    "genres": [
+      "groove room"
+    ]
+  },
+  {
+    "id": "1XFbnj1jNNzzyg46ni3dnr",
+    "name": "Moullinex",
+    "genres": [
+      "filter house",
+      "nu disco"
+    ]
+  },
+  {
+    "id": "6awWDGNl4gWC8BNsn7r26s",
+    "name": "Rodrigo Lima",
+    "genres": [
+      "brazilian contemporary classical"
+    ]
+  },
+  {
+    "id": "7z2avKuuiMAT4XZJFv8Rvh",
+    "name": "Tom Walker",
+    "genres": [
+      "indie anthem-folk",
+      "pop",
+      "uk pop"
+    ]
+  },
+  {
+    "id": "1ZUpQr4VSnnP86WbaRRMpd",
+    "name": "Jay Pryor",
+    "genres": [
+      "dance pop",
+      "deep groove house",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "2PPJ3ccorfps8VfCL6i8Rl",
+    "name": "Next Habit",
+    "genres": []
+  },
+  {
+    "id": "7eonsju0gRRDsBvySAYDiY",
+    "name": "Nicky Night Time",
+    "genres": [
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "4T8dF8zYAxgtlPPICuFQ5w",
+    "name": "Pascal Junior",
+    "genres": [
+      "groove room"
+    ]
+  },
+  {
+    "id": "61StZOWgYff2AxDUejw4UI",
+    "name": "Lika Morgan",
+    "genres": [
+      "deep groove house",
+      "deep tropical house",
+      "house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "61lyPtntblHJvA7FMMhi7E",
+    "name": "Duke Dumont",
+    "genres": [
+      "dance pop",
+      "destroy techno",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "progressive house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "7CajNmpbOovFoOoasH2HaY",
+    "name": "Calvin Harris",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "house",
+      "pop",
+      "progressive house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "3dE92yGWcrboP1kC5SWyqu",
+    "name": "Todd Terry",
+    "genres": [
+      "classic house",
+      "deep house",
+      "disco house",
+      "diva house",
+      "funky tech house",
+      "garage house",
+      "hip house",
+      "house",
+      "tribal house",
+      "vocal house"
+    ]
+  },
+  {
+    "id": "62UchbbVEKcnLN0Lb6mLlL",
+    "name": "Hannah Wants, Chris Lorenzo",
+    "genres": []
+  },
+  {
+    "id": "4lu50np3LdTkRL09T7x8UP",
+    "name": "Agoria",
+    "genres": [
+      "electronica",
+      "microhouse",
+      "minimal techno",
+      "new french touch",
+      "tech house"
+    ]
+  },
+  {
+    "id": "0ugRi4v3utREAUASuPhlJz",
+    "name": "Troste",
+    "genres": [
+      "swiss house"
+    ]
+  },
+  {
+    "id": "17dbJyUCrxh4I7iyUrjaHU",
+    "name": "Carl Craig",
+    "genres": [
+      "detroit techno",
+      "microhouse",
+      "minimal techno",
+      "outsider house",
+      "techno"
+    ]
+  },
+  {
+    "id": "30tUlKZ8oLo0BnN6n0GZKD",
+    "name": "Nuages",
+    "genres": []
+  },
+  {
+    "id": "6MzHMxgYcbj6ue5w9pbNp9",
+    "name": "Stan Kolev",
+    "genres": [
+      "focus trance",
+      "organic house",
+      "progressive trance house"
+    ]
+  },
+  {
+    "id": "29TpNOsTNYbLb6Xa10H0PR",
+    "name": "Miss Monique",
+    "genres": [
+      "ukrainian electronic"
+    ]
+  },
+  {
+    "id": "5INjqkS1o8h1imAzPqGZBb",
+    "name": "Tame Impala",
+    "genres": [
+      "australian psych",
+      "neo-psychedelic"
+    ]
+  },
+  {
+    "id": "7oZdp9UWjuC68LeJSYeKZL",
+    "name": "ManyFew",
+    "genres": [
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "1iwseab2dozTUHoF5taAdf",
+    "name": "Jarami",
+    "genres": [
+      "indie soul",
+      "scandipop"
+    ]
+  },
+  {
+    "id": "31ZNfGVEEcI9CyicPVJQni",
+    "name": "Junior Sanchez",
+    "genres": []
+  },
+  {
+    "id": "0bGDTQ78MVgI5Snqo9KJZw",
+    "name": "Qrion",
+    "genres": [
+      "japanese edm",
+      "japanese house"
+    ]
+  },
+  {
+    "id": "6JzWgxi0nFzcHq7cqpGbiz",
+    "name": "Marcus Layton",
+    "genres": [
+      "german dance"
+    ]
+  },
+  {
+    "id": "5uiEF5htEqJgHcOajZ25ns",
+    "name": "Blinded Hearts",
+    "genres": [
+      "covertronica",
+      "german dance"
+    ]
+  },
+  {
+    "id": "5UmeRtxfJxx9iUnyUP8dFm",
+    "name": "Ronald Jenkees",
+    "genres": []
+  },
+  {
+    "id": "67ONRteBPYNpIVL7MvBGQn",
+    "name": "Two Neighbors",
+    "genres": []
+  },
+  {
+    "id": "0G0DRVtduDqqikbVbZXaNn",
+    "name": "Mark Tarmonea",
+    "genres": [
+      "german house"
+    ]
+  },
+  {
+    "id": "5XEGfdDgfiFUTi3vp6HSmm",
+    "name": "Andrew Neal",
+    "genres": []
+  },
+  {
+    "id": "18MdCa6sJKKOf9JttVCdUC",
+    "name": "Zeni N",
+    "genres": [
+      "groove room"
+    ]
+  },
+  {
+    "id": "0i8byW08EV6y7Dv9gDPUCF",
+    "name": "TRU Concept",
+    "genres": [
+      "deep groove house",
+      "pop edm"
+    ]
+  },
+  {
+    "id": "6XyY86QOPPrYVGvF9ch6wz",
+    "name": "Linkin Park",
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "post-grunge",
+      "rap metal"
+    ]
+  },
+  {
+    "id": "6OMzm6m3FqYxpnnYTWHJGO",
+    "name": "DESERT STAR",
+    "genres": [
+      "gaming edm"
+    ]
+  },
+  {
+    "id": "47z7ZrgFoBvVpCnElCE3Zh",
+    "name": "Yellow Claw",
+    "genres": [
+      "bass trap",
+      "edm",
+      "electro house",
+      "electronic trap",
+      "pop dance"
+    ]
+  },
+  {
+    "id": "7yF6JnFPDzgml2Ytkyl5D7",
+    "name": "Mall Grab",
+    "genres": [
+      "aussietronica",
+      "australian house",
+      "lo-fi house"
+    ]
+  },
+  {
+    "id": "2RGj10V2dzEJO92R6v7eGA",
+    "name": "Capa (Official)",
+    "genres": []
+  },
+  {
+    "id": "3WtrH1zNpzoPSz6XpwCh6y",
+    "name": "Delilah Montagu",
+    "genres": [
+      "british singer-songwriter"
+    ]
+  },
+  {
+    "id": "21ISjLZiJwSphkTGVRRU8E",
+    "name": "Cuts Deep",
+    "genres": []
+  },
+  {
+    "id": "1Dt1UKLtrJIW1xxRBejjos",
+    "name": "The Blaze",
+    "genres": [
+      "new french touch"
+    ]
+  },
+  {
+    "id": "0lZoBs4Pzo7R89JM9lxwoT",
+    "name": "Duran Duran",
+    "genres": [
+      "dance rock",
+      "new romantic",
+      "new wave",
+      "new wave pop",
+      "rock",
+      "synthpop"
+    ]
+  },
+  {
+    "id": "1K80Wcuuo13i28cVd68mxm",
+    "name": "Dave Winnel",
+    "genres": []
+  },
+  {
+    "id": "1bpzpALZwOoKXzwMg2i8WB",
+    "name": "Dirty South",
+    "genres": [
+      "australian dance",
+      "edm",
+      "electro house",
+      "pop dance",
+      "progressive electro house",
+      "progressive house"
+    ]
+  },
+  {
+    "id": "5hnP6B3XX1yAvhQWHifkxx",
+    "name": "Boone River",
+    "genres": []
+  },
+  {
+    "id": "2vf4pRsEY6LpL5tKmqWb64",
+    "name": "Elderbrook",
+    "genres": [
+      "edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "0dLWSYE7my9AbpQYNJ0ABV",
+    "name": "Oscar and the Wolf",
+    "genres": [
+      "belgian indie",
+      "belgian pop"
+    ]
+  },
+  {
+    "id": "0hTV7lch0OcKcMn6RYgOLR",
+    "name": "Roland Tings",
+    "genres": [
+      "aussietronica"
+    ]
+  },
+  {
+    "id": "71Char2jLgXkG97fBjqNNY",
+    "name": "The Bad Dreamers",
+    "genres": [
+      "popwave",
+      "spacewave"
+    ]
+  },
+  {
+    "id": "1Qj4wPnd5DKW7TXALK7Xfj",
+    "name": "Jethro Heston",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop dance",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "5cZJeB9HaMDDK96ik3UYdu",
+    "name": "Darin Epsilon",
+    "genres": []
+  },
+  {
+    "id": "3NLFKv17mDCARVJdf3a2s4",
+    "name": "Mariline",
+    "genres": []
+  },
+  {
+    "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+    "name": "BTS",
+    "genres": [
+      "k-pop",
+      "k-pop boy group"
+    ]
+  },
+  {
+    "id": "14Tg9FvbNismPR1PJHxRau",
+    "name": "Sultan + Shepard",
+    "genres": [
+      "canadian electronic",
+      "edm",
+      "progressive house",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "1XgI1X3xjXCKRP1ZjhqgkV",
+    "name": "Matt Fax",
+    "genres": [
+      "progressive house",
+      "progressive trance"
+    ]
+  },
+  {
+    "id": "4jGpKAmwvU263l0tUh4xKU",
+    "name": "Joris Voorn",
+    "genres": [
+      "dutch tech house",
+      "electronica",
+      "microhouse",
+      "minimal techno",
+      "tech house"
+    ]
+  },
+  {
+    "id": "67YkGjtw8rmC6Ck0GmoxFA",
+    "name": "Dj Streaks",
+    "genres": [
+      "disco house"
+    ]
+  },
+  {
+    "id": "0BMhfbeiOrNMBzjELzbyNg",
+    "name": "Arno Cost",
+    "genres": [
+      "edm",
+      "electro house",
+      "progressive electro house"
+    ]
+  },
+  {
+    "id": "0IBVUiVJxjc8yGcbwP7Jic",
+    "name": "Rosa Ama",
+    "genres": []
+  },
+  {
+    "id": "43Tj43rAMtM2SWutBZJCyd",
+    "name": "Salecky",
+    "genres": []
+  },
+  {
+    "id": "59Yq0xrABEihHANsfo9QMT",
+    "name": "Blanke",
+    "genres": [
+      "dubstep",
+      "edm",
+      "electro house",
+      "future bass",
+      "melodic dubstep"
+    ]
+  },
+  {
+    "id": "5Xcbv83o11Ez2XPHa1n8Pf",
+    "name": "AmPm",
+    "genres": [
+      "japanese dance pop"
+    ]
+  },
+  {
+    "id": "4csQIMQm6vI2A2SCVDuM2z",
+    "name": "Hayden James",
+    "genres": [
+      "aussietronica",
+      "edm",
+      "gauze pop",
+      "house",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "5lwT6gFdwV3Wcol07KUiJx",
+    "name": "Mike Mago",
+    "genres": [
+      "deep groove house",
+      "deep tropical house",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "1gJdf4Yybu4X5A2xYV3NMV",
+    "name": "Eden Muñoz",
+    "genres": [
+      "musica mexicana",
+      "nueva musica mexicana"
+    ]
+  },
+  {
+    "id": "6PHSSNEm7JStYhKJinpThx",
+    "name": "Tosel & Hale",
+    "genres": [
+      "groove room"
+    ]
+  },
+  {
+    "id": "1uF7AFfGahplhiaHEy9NNl",
+    "name": "Loods",
+    "genres": [
+      "australian dance",
+      "disco house"
+    ]
+  },
+  {
+    "id": "5dCpFeKxLbycrnsjWZjha8",
+    "name": "Proleter",
+    "genres": [
+      "electro swing"
+    ]
+  },
+  {
+    "id": "5UVzX8pQe6bb5ueNdfViih",
+    "name": "Chris Malinchak",
+    "genres": [
+      "nu disco",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "4eZebkMFU3xelF8mbZYXyl",
+    "name": "Goldroom",
+    "genres": [
+      "indie poptimism",
+      "indie soul",
+      "new french touch",
+      "nu disco",
+      "shimmer pop",
+      "tropical house",
+      "vapor soul"
+    ]
+  },
+  {
+    "id": "14MtanGZe4G1fzC8raLFUK",
+    "name": "Danny Howard",
+    "genres": [
+      "uk tech house"
+    ]
+  },
+  {
+    "id": "6puqyrpoPdFNxDJ8KPy2pE",
+    "name": "Kate Boy",
+    "genres": [
+      "electropop",
+      "metropopolis",
+      "shiver pop",
+      "swedish electropop",
+      "swedish synthpop"
+    ]
+  },
+  {
+    "id": "6gZBuGRyiyGkAVFCJAWdMk",
+    "name": "Just Us",
+    "genres": []
+  },
+  {
+    "id": "6VXB0WH4MfmhZyongoEYZr",
+    "name": "Crazy Cousinz",
+    "genres": [
+      "bassline",
+      "uk funky"
+    ]
+  },
+  {
+    "id": "40JyDxGqtYSowWYT2jaive",
+    "name": "Alan Fitzpatrick",
+    "genres": [
+      "house",
+      "minimal techno",
+      "tech house"
+    ]
+  },
+  {
+    "id": "7bywdy7GogO9U60ROyLSih",
+    "name": "CVMRN",
+    "genres": []
+  },
+  {
+    "id": "1qSIQ3TEcty8nAeWa30los",
+    "name": "DJ Huguito",
+    "genres": []
+  },
+  {
+    "id": "0ETo9HZNS59akaRETQaDk7",
+    "name": "Alex Motynga",
+    "genres": []
+  },
+  {
+    "id": "71pvNpBYZ4tVW143XCeVqk",
+    "name": "Pat Benedetti",
+    "genres": []
+  },
+  {
+    "id": "06EYvNLmc9GLI4LBw3t2AG",
+    "name": "Jack Tyson-Charles",
+    "genres": []
+  },
+  {
+    "id": "1yNIb413Bmfs2ZBVuPp9kC",
+    "name": "Jack Stauber's Micropop",
+    "genres": [
+      "indie pop",
+      "weirdcore"
+    ]
+  },
+  {
+    "id": "6FiGI0nDxHFqw0Ragm9mV0",
+    "name": "Chris Diaz",
+    "genres": []
+  },
+  {
+    "id": "76R61LaFG2vrjlivdfGavR",
+    "name": "Howard Charles",
+    "genres": []
+  },
+  {
+    "id": "6ERxs2xSWmSpub4Djm1K4L",
+    "name": "Joe Valentine",
+    "genres": []
+  },
+  {
+    "id": "6iGJMHYAjhooNeC1vM32Th",
+    "name": "Jarrah Wales",
+    "genres": []
+  },
+  {
+    "id": "3DKkhRCGOG4e8IUPYFPfWs",
+    "name": "Dixie",
+    "genres": [
+      "social media pop"
+    ]
+  },
+  {
+    "id": "3RMHexittaAZkf8zukkZB8",
+    "name": "Trevor Hall",
+    "genres": [
+      "acoustic pop",
+      "high vibe",
+      "neo mellow",
+      "south carolina indie"
+    ]
+  },
+  {
+    "id": "5oOhM2DFWab8XhSdQiITry",
+    "name": "Tycho",
+    "genres": [
+      "chillwave",
+      "downtempo",
+      "electronica",
+      "indietronica",
+      "intelligent dance music"
+    ]
+  },
+  {
+    "id": "1L9i6qZYIGQedgM9QLSyzb",
+    "name": "Klingande",
+    "genres": [
+      "deep house",
+      "deep tropical house",
+      "edm",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "6fYu9o11FuJSjYkZhq2JOL",
+    "name": "Lessovsky",
+    "genres": [
+      "organic electronic"
+    ]
+  },
+  {
+    "id": "5v2WhpA59TJSdPh7LCx1lN",
+    "name": "BONES",
+    "genres": [
+      "dark trap",
+      "underground hip hop"
+    ]
+  },
+  {
+    "id": "6vXTefBL93Dj5IqAWq6OTv",
+    "name": "French Montana",
+    "genres": [
+      "gangster rap",
+      "hip hop",
+      "pop rap",
+      "rap",
+      "southern hip hop",
+      "trap"
+    ]
+  },
+  {
+    "id": "3XFcu2NnGWceLNdxRCfYH3",
+    "name": "Taska Black",
+    "genres": [
+      "bass trap",
+      "edm",
+      "electronic trap",
+      "electropop",
+      "future bass",
+      "pop dance",
+      "pop edm",
+      "vapor twitch"
+    ]
+  },
+  {
+    "id": "4AL3YviSMI70ARkSOHlxbQ",
+    "name": "Joyce Sims",
+    "genres": [
+      "post-disco"
+    ]
+  },
+  {
+    "id": "3QJzdZJYIAcoET1GcfpNGi",
+    "name": "Damian Marley",
+    "genres": [
+      "modern reggae",
+      "reggae",
+      "reggae fusion"
+    ]
+  },
+  {
+    "id": "0USh2zLOFGDKyRBZRPE7iL",
+    "name": "Robin Mark",
+    "genres": [
+      "christian music",
+      "classic praise",
+      "roots worship",
+      "uk worship",
+      "world worship",
+      "worship"
+    ]
+  },
+  {
+    "id": "2FwDTncULUnmANIh7qKa5z",
+    "name": "FKJ",
+    "genres": [
+      "filter house",
+      "indie soul"
+    ]
+  },
+  {
+    "id": "2exudSjTjUksRJhnF5JZYn",
+    "name": "Pusher",
+    "genres": [
+      "kawaii future bass"
+    ]
+  },
+  {
+    "id": "329e4yvIujISKGKz1BZZbO",
+    "name": "Farruko",
+    "genres": [
+      "latin hip hop",
+      "reggaeton",
+      "trap latino"
+    ]
+  },
+  {
+    "id": "0M7GyeyRi2fG8c1LdP4jhi",
+    "name": "Lastlings",
+    "genres": [
+      "edm",
+      "vapor soul"
+    ]
+  },
+  {
+    "id": "40qj25zkDJMNK85VG9v4xz",
+    "name": "Nossa Nossa",
+    "genres": []
+  },
+  {
+    "id": "6Q192DXotxtaysaqNPy5yR",
+    "name": "Amy Winehouse",
+    "genres": [
+      "british soul",
+      "neo soul"
+    ]
+  },
+  {
+    "id": "11OUxHFoGgo2NDSdT6YiEC",
+    "name": "Nihil Young",
+    "genres": [
+      "italian tech house"
+    ]
+  },
+  {
+    "id": "5CCwRZC6euC8Odo6y9X8jr",
+    "name": "Rita Ora",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electropop",
+      "pop",
+      "pop rap",
+      "post-teen pop",
+      "tropical house",
+      "uk pop"
+    ]
+  },
+  {
+    "id": "4JyfkCTV9FO5Yipee3f9EI",
+    "name": "Trans-X",
+    "genres": [
+      "hi-nrg",
+      "italian disco",
+      "new romantic",
+      "new wave",
+      "synthpop"
+    ]
+  },
+  {
+    "id": "30GgMIm1GpwrIockIVpzkz",
+    "name": "House Of Virus",
+    "genres": []
+  },
+  {
+    "id": "75nC6MXUalYZSOd7OfNkwq",
+    "name": "Tensnake",
+    "genres": [
+      "deep house",
+      "disco house",
+      "edm",
+      "german house",
+      "hamburg electronic",
+      "house",
+      "nu disco",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "67KNxLIJfcRXHJJPSRamd4",
+    "name": "Magua",
+    "genres": []
+  },
+  {
+    "id": "4fpAs40OBZoto9ZtoEdOuE",
+    "name": "Penner+Muder",
+    "genres": []
+  },
+  {
+    "id": "2FXC3k01G6Gw61bmprjgqS",
+    "name": "Hozier",
+    "genres": [
+      "irish singer-songwriter",
+      "pop"
+    ]
+  },
+  {
+    "id": "0OaBO8SytZzvzAO3NOWiv3",
+    "name": "Tobias Bergson",
+    "genres": []
+  },
+  {
+    "id": "1OvvIdVPTSBByvQyRAvMTO",
+    "name": "Samwell",
+    "genres": [
+      "luxembourgian electronic"
+    ]
+  },
+  {
+    "id": "49tQo2QULno7gxHutgccqF",
+    "name": "LANY",
+    "genres": [
+      "la pop",
+      "pop"
+    ]
+  },
+  {
+    "id": "2OdSWlu6iOzT4YsRJuvC8I",
+    "name": "Owen Westlake",
+    "genres": [
+      "deep groove house"
+    ]
+  },
+  {
+    "id": "7kA4sEagpoNK91I7wr9tYr",
+    "name": "Bleu Clair",
+    "genres": [
+      "bass house",
+      "deep groove house",
+      "indonesian edm"
+    ]
+  },
+  {
+    "id": "4Ns8X0eSCqs0vwODI6COdC",
+    "name": "Melouie",
+    "genres": []
+  },
+  {
+    "id": "0BhM40Ah8TqyRmlcAKFoz5",
+    "name": "Sonic Scenario",
+    "genres": [
+      "covertronica"
+    ]
+  },
+  {
+    "id": "1g3DHFTgwP8SbgH5ND8lVj",
+    "name": "Sander W.",
+    "genres": [
+      "deep tropical house",
+      "new french touch",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "2h7LIGXwIr6m1tZ27JHgxQ",
+    "name": "MARIA Die RUHE",
+    "genres": []
+  },
+  {
+    "id": "22bukBZvUppuwQwmDz75Gz",
+    "name": "Sander van Doorn",
+    "genres": [
+      "dutch trance",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "progressive electro house",
+      "progressive house",
+      "trance"
+    ]
+  },
+  {
+    "id": "2Cdqp37PJ5bq7ouNl100rn",
+    "name": "Sharmystic",
+    "genres": []
+  },
+  {
+    "id": "3FZEnh3qohxcPnCVt63WfF",
+    "name": "Get To Know",
+    "genres": []
+  },
+  {
+    "id": "2VqvNXdQzKDywenScflYoX",
+    "name": "Runrummer",
+    "genres": []
+  },
+  {
+    "id": "31Eea8xaK1xAMyJy2iWE0z",
+    "name": "Eden Prince",
+    "genres": [
+      "dance pop",
+      "deep groove house",
+      "house"
+    ]
+  },
+  {
+    "id": "0yEnnivHzCPxaTfNbWjV7x",
+    "name": "Alan Dixon",
+    "genres": []
+  },
+  {
+    "id": "5Aw0IGM5JS3FuTgtRsDWGA",
+    "name": "Chocolate Puma",
+    "genres": [
+      "bass house",
+      "deep groove house",
+      "disco house",
+      "dutch edm",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "progressive electro house",
+      "progressive house",
+      "vocal house"
+    ]
+  },
+  {
+    "id": "5zDlgTCrdCh2cFRX7nH8W1",
+    "name": "Rooga",
+    "genres": [
+      "chicago drill"
+    ]
+  },
+  {
+    "id": "5OImcY3khBn9UFjzgaapob",
+    "name": "Low Steppa",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop dance",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "6QMABvTzixnxzsLYyhqRxI",
+    "name": "Majestic",
+    "genres": [
+      "house",
+      "pop dance",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "5n1PBCIaxmMq0ke9y1CjBl",
+    "name": "J.Weo",
+    "genres": []
+  },
+  {
+    "id": "4r5nodDR7EIclVXcvl6ubF",
+    "name": "TKNIK",
+    "genres": []
+  },
+  {
+    "id": "7FY5V3XMwlNBPitEjXowHQ",
+    "name": "Darius Rucker",
+    "genres": [
+      "black americana",
+      "contemporary country",
+      "country",
+      "country road"
+    ]
+  },
+  {
+    "id": "6lhPEH73wnzXY8agYbpdPu",
+    "name": "Danalogue",
+    "genres": []
+  },
+  {
+    "id": "266nlOK60FerLghDn7SQWF",
+    "name": "Girl As Wave",
+    "genres": []
+  },
+  {
+    "id": "5qEDGvC2RIXBDMQ9vRjgp5",
+    "name": "Paul Adams",
+    "genres": [
+      "meditation",
+      "new age"
+    ]
+  },
+  {
+    "id": "0qf0Q4O80E7yWfsKAV9LLH",
+    "name": "Alleko",
+    "genres": []
+  },
+  {
+    "id": "5tYqFEuFELxnJZgGmmsfSh",
+    "name": "Catz 'n Dogz",
+    "genres": [
+      "deep disco house",
+      "german techno",
+      "house",
+      "minimal tech house",
+      "minimal techno",
+      "tech house"
+    ]
+  },
+  {
+    "id": "2tDA2vvMMRpi5GZL0hzqqj",
+    "name": "Alexcis",
+    "genres": []
+  },
+  {
+    "id": "3Bd1phrOZJuCev9U0bzdtA",
+    "name": "Ben Nicky",
+    "genres": [
+      "hard trance"
+    ]
+  },
+  {
+    "id": "71rqI5HtraA3qXBwatyG6e",
+    "name": "Innellea",
+    "genres": [
+      "munich electronic"
+    ]
+  },
+  {
+    "id": "5Ld19xtpAR80G2boTcHaVx",
+    "name": "Harrison Storm",
+    "genres": [
+      "indie anthem-folk",
+      "indie folk"
+    ]
+  },
+  {
+    "id": "3bh4M54m4LRs41WQs07Jy0",
+    "name": "Truth x Lies",
+    "genres": [
+      "bass house"
+    ]
+  },
+  {
+    "id": "4QjO1DzyPip3wFmrtXLDc7",
+    "name": "Bordertown",
+    "genres": []
+  },
+  {
+    "id": "4zxtCQ4mwZH38FVCSbpqlZ",
+    "name": "THAT KIND",
+    "genres": [
+      "deep groove house",
+      "house",
+      "pop dance"
+    ]
+  },
+  {
+    "id": "5RsczpoJXjqTqZLToj3nRn",
+    "name": "Vanilla Ace",
+    "genres": [
+      "bass house"
+    ]
+  },
+  {
+    "id": "2S30aWQV6SsZAgHQtO8FJF",
+    "name": "Dooly (Ru)",
+    "genres": []
+  },
+  {
+    "id": "5nPOO9iTcrs9k6yFffPxjH",
+    "name": "Röyksopp",
+    "genres": [
+      "alternative dance",
+      "downtempo",
+      "electronica",
+      "electropop",
+      "trip hop"
+    ]
+  },
+  {
+    "id": "78CkUkpoNpLZbnIOv00M6Q",
+    "name": "2DCAT",
+    "genres": [
+      "spacewave"
+    ]
+  },
+  {
+    "id": "6eNOjuJSfKkAvbiGW90AkZ",
+    "name": "Joachim Pastor",
+    "genres": [
+      "electronica",
+      "french tech house",
+      "minimal techno",
+      "new french touch",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "7DhdJhd6DrxeJlUajwttd1",
+    "name": "Martin Ikin",
+    "genres": [
+      "bass house",
+      "deep groove house",
+      "edm",
+      "house"
+    ]
+  },
+  {
+    "id": "63ZhA57b5xbgOi8q9uC4rE",
+    "name": "Moszq",
+    "genres": []
+  },
+  {
+    "id": "2TKsYWYH1389rtSYmn1ZBA",
+    "name": "Headcharge777",
+    "genres": []
+  },
+  {
+    "id": "70gP6Ry4Uo0Yx6uzPIdaiJ",
+    "name": "Bas",
+    "genres": [
+      "hip hop",
+      "queens hip hop",
+      "rap",
+      "southern hip hop",
+      "sudanese hip hop",
+      "sudanese pop",
+      "trap",
+      "underground hip hop"
+    ]
+  },
+  {
+    "id": "4zxvC7CRGvggq9EWXOpwAo",
+    "name": "Kiesza",
+    "genres": [
+      "electropop",
+      "pop edm"
+    ]
+  },
+  {
+    "id": "3NUYYSt8WHXwsA93wffTuG",
+    "name": "Pow-Low",
+    "genres": []
+  },
+  {
+    "id": "3V8Gdws52TzoL8WLZHvpzc",
+    "name": "SafetySuit",
+    "genres": [
+      "neo mellow",
+      "pop rock"
+    ]
+  },
+  {
+    "id": "052B9SONfhoScw7dgYWw5o",
+    "name": "Biscits",
+    "genres": [
+      "bass house",
+      "deep groove house",
+      "edm",
+      "house",
+      "pop dance",
+      "uk tech house"
+    ]
+  },
+  {
+    "id": "1ocnIbhFWM9bSPrd7Hu4zF",
+    "name": "Punctual",
+    "genres": [
+      "dance pop",
+      "edm",
+      "electro house",
+      "house",
+      "pop dance",
+      "pop edm",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "1BROECBJlV3fvcSLrIlqI8",
+    "name": "QUERIDO",
+    "genres": []
+  },
+  {
+    "id": "5sLCZx5RvQ1Cv6kguDLCLx",
+    "name": "Voz De Mando",
+    "genres": [
+      "corrido",
+      "musica mexicana",
+      "norteno",
+      "nueva musica mexicana",
+      "ranchera"
+    ]
+  },
+  {
+    "id": "7M7vQv8K3CLzWRK6urf1aJ",
+    "name": "Juli Holz",
+    "genres": [
+      "tech house"
+    ]
+  },
+  {
+    "id": "4MxsTQbn9jctKNfDlYrYNh",
+    "name": "Tinush",
+    "genres": [
+      "deep euro house",
+      "new french touch"
+    ]
+  },
+  {
+    "id": "65XcfOOaVxbZnNlz40DK7i",
+    "name": "Windows 96",
+    "genres": [
+      "chillsynth",
+      "hardvapour",
+      "synthwave brasileiro",
+      "vaporwave"
+    ]
+  },
+  {
+    "id": "67ncboRbwyEWfzLPCjgHKt",
+    "name": "Chris Tall ",
+    "genres": []
+  },
+  {
+    "id": "2kgvaYV2tbNyOonFI3YlfH",
+    "name": "Arc North",
+    "genres": [
+      "covertronica",
+      "gaming edm",
+      "pop edm",
+      "slap house"
+    ]
+  },
+  {
+    "id": "57mh0tLnwnzZXEdahSfrup",
+    "name": "truekolors",
+    "genres": []
+  },
+  {
+    "id": "5Onrn8NGA9PFbb8GdFQZgI",
+    "name": "Griffin Kenna",
+    "genres": []
+  },
+  {
+    "id": "2feDdbD5araYcm6JhFHHw7",
+    "name": "Labrinth",
+    "genres": [
+      "indie poptimism",
+      "pop"
+    ]
+  },
+  {
+    "id": "64KEffDW9EtZ1y2vBYgq8T",
+    "name": "Marshmello",
+    "genres": [
+      "brostep",
+      "dance pop",
+      "edm",
+      "pop",
+      "pop dance",
+      "progressive electro house"
+    ]
+  },
+  {
+    "id": "5NnQdLx16ClNP5haoGdjk7",
+    "name": "LA Riots",
+    "genres": []
+  },
+  {
+    "id": "1UmLUPNgy8HS6oI05zdGjD",
+    "name": "Norman Doray",
+    "genres": [
+      "progressive electro house"
+    ]
+  },
+  {
+    "id": "59K4feh7I5Hfu5zXODLmkd",
+    "name": "George Georgia",
+    "genres": []
+  },
+  {
+    "id": "3WdYHvFVTB7OeUODdtrSfM",
+    "name": "Sandor Gavin",
+    "genres": []
+  },
+  {
+    "id": "0O5xKyCrDQlX8v743YsGWf",
+    "name": "Amirium",
+    "genres": []
+  },
+  {
+    "id": "3MdG05syQeRYPPcClLaUGl",
+    "name": "Diana Ross",
+    "genres": [
+      "adult standards",
+      "dance pop",
+      "disco",
+      "motown",
+      "quiet storm",
+      "soul"
+    ]
+  },
+  {
+    "id": "1D30m5UYwgT0W9YzBKYZz7",
+    "name": "I AM a DUO",
+    "genres": []
+  },
+  {
+    "id": "6ySxYu68zTsO5ghsThpGtS",
+    "name": "Cosmic Gate",
+    "genres": [
+      "edm",
+      "german techno",
+      "german trance",
+      "pop dance",
+      "progressive house",
+      "progressive trance",
+      "trance",
+      "uplifting trance"
+    ]
+  },
+  {
+    "id": "7keGfmQR4X5w0two1xKZ7d",
+    "name": "Kungs",
+    "genres": [
+      "edm",
+      "pop dance",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "6TyoUKAylYUy8HnZyWupIz",
+    "name": "Neta Shay",
+    "genres": []
+  },
+  {
+    "id": "70BYFdaZbEKbeauJ670ysI",
+    "name": "Shinedown",
+    "genres": [
+      "alternative metal",
+      "nu metal",
+      "post-grunge"
+    ]
+  },
+  {
+    "id": "6B5c4sch27tWHAGdarpPaW",
+    "name": "Seether",
+    "genres": [
+      "alternative metal",
+      "modern rock",
+      "nu metal",
+      "post-grunge",
+      "south african rock"
+    ]
+  },
+  {
+    "id": "5344K3N7rx7kw1HjO8psuq",
+    "name": "James Carter",
+    "genres": [
+      "covertronica",
+      "edm",
+      "pop dance",
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "07EOa5tn34Eh7VuTfnYMjk",
+    "name": "Alex Brandt",
+    "genres": []
+  },
+  {
+    "id": "1JdeDdujDbS6ZeSlkXqx3a",
+    "name": "Loreena McKennitt",
+    "genres": [
+      "canadian celtic",
+      "celtic",
+      "world"
+    ]
+  },
+  {
+    "id": "5oJvmyeWzyeahRtjup3Oys",
+    "name": "AVAION",
+    "genres": []
+  },
+  {
+    "id": "6MFopqejpmTUUZlcRmGzgg",
+    "name": "Todd Edwards",
+    "genres": [
+      "garage house",
+      "uk garage"
+    ]
+  },
+  {
+    "id": "3RNrq3jvMZxD9ZyoOZbQOD",
+    "name": "Korn",
+    "genres": [
+      "alternative metal",
+      "funk metal",
+      "nu metal",
+      "rap metal"
+    ]
+  },
+  {
+    "id": "5tZ9Qrp84JRdN5tyM05ko9",
+    "name": "Circular Run",
+    "genres": []
+  },
+  {
+    "id": "31fsS1VepHdLEwdsxp6Wk6",
+    "name": "Cem Sari",
+    "genres": []
+  },
+  {
+    "id": "698hF4vcwHwPy8ltmXermq",
+    "name": "Far East Movement",
+    "genres": [
+      "asian american hip hop",
+      "dance pop",
+      "edm",
+      "pop rap"
+    ]
+  },
+  {
+    "id": "35KtMJ3zEIvITK6xssqTWq",
+    "name": "Rich James",
+    "genres": [
+      "funk",
+      "pop edm"
+    ]
+  },
+  {
+    "id": "19k8AgwwTSxeaxkOuCQEJs",
+    "name": "Jelly Roll",
+    "genres": [
+      "country rap",
+      "nashville hip hop",
+      "tennessee hip hop"
+    ]
+  },
+  {
+    "id": "3XUgFwHXbyBHNuAfv7sWu3",
+    "name": "Double 99",
+    "genres": [
+      "bass house",
+      "bassline",
+      "speed garage",
+      "uk garage"
+    ]
+  },
+  {
+    "id": "5nhrH1JLtBXqhhliwceEI5",
+    "name": "Promnite",
+    "genres": []
+  },
+  {
+    "id": "4ExQ0FmaPlw3y8nZFpMnEn",
+    "name": "Camus",
+    "genres": []
+  },
+  {
+    "id": "2N6aCxMw56t6OuH5Jn23D7",
+    "name": "Piemont",
+    "genres": [
+      "hamburg electronic",
+      "minimal techno",
+      "organic electronic",
+      "tech house"
+    ]
+  },
+  {
+    "id": "0l8LjObaEKurejq7G7O2Gw",
+    "name": "Nomad Navi",
+    "genres": []
+  },
+  {
+    "id": "4mVFMuChc6F8BzqedNTU2n",
+    "name": "NPTNE",
+    "genres": []
+  },
+  {
+    "id": "6CF3f7dEQV2oNUEUzGQwO4",
+    "name": "Rathbone Place",
+    "genres": []
+  },
+  {
+    "id": "06HL4z0CvFAxyc27GXpf02",
+    "name": "Taylor Swift",
+    "genres": [
+      "pop"
+    ]
+  },
+  {
+    "id": "6BDngwe9dcvrkw4ex9cqsb",
+    "name": "Black Domino",
+    "genres": [
+      "belgian edm"
+    ]
+  },
+  {
+    "id": "5uV5lYUeTdpm3gvJmPJkFL",
+    "name": "Soane",
+    "genres": []
+  },
+  {
+    "id": "45lcbTsX07JWzmTIjcdyBz",
+    "name": "Matroda",
+    "genres": [
+      "bass house",
+      "deep groove house",
+      "edm",
+      "electro house"
+    ]
+  },
+  {
+    "id": "6MJKlN8ya42Agsw3iQZs6e",
+    "name": "French 79",
+    "genres": [
+      "electronica",
+      "french indie pop",
+      "french indietronica",
+      "new french touch"
+    ]
+  },
+  {
+    "id": "4aEnNH9PuU1HF3TsZTru54",
+    "name": "Caribou",
+    "genres": [
+      "alternative dance",
+      "electronica",
+      "folktronica",
+      "indie rock",
+      "indietronica",
+      "intelligent dance music",
+      "new rave"
+    ]
+  },
+  {
+    "id": "6DnQYUjtYusK9QJts9HqSC",
+    "name": "Skepsis",
+    "genres": [
+      "bass house"
+    ]
+  },
+  {
+    "id": "6YCM9JwkqdEFQSzztmh4Kb",
+    "name": "Navos",
+    "genres": [
+      "dance pop",
+      "deep groove house",
+      "edm",
+      "house",
+      "pop dance",
+      "tropical house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "1LXTXZjheh25pXMEUT9iC1",
+    "name": "Einmusik",
+    "genres": [
+      "electronica",
+      "german techno",
+      "microhouse",
+      "minimal techno",
+      "organic house",
+      "tech house"
+    ]
+  },
+  {
+    "id": "1syjYeo2PptHbZlvJQsjUO",
+    "name": "Otosan",
+    "genres": [
+      "nz pop"
+    ]
+  },
+  {
+    "id": "7xwN3wuAbcvsSsY4fj1iLA",
+    "name": "My Digital Enemy",
+    "genres": [
+      "deep groove house",
+      "funky tech house"
+    ]
+  },
+  {
+    "id": "6ECqUbMiv22cNYmeBIOoPL",
+    "name": "Elypsis",
+    "genres": [
+      "progressive trance",
+      "progressive trance house"
+    ]
+  },
+  {
+    "id": "0pWwt5vGNzezEhfAcc420Y",
+    "name": "Mr.Kitty",
+    "genres": [
+      "weirdcore"
+    ]
+  },
+  {
+    "id": "1TBmgkFTccEwiQ8oEH620O",
+    "name": "Vibe Escape",
+    "genres": []
+  },
+  {
+    "id": "1RmTOgb1wxi3qpxDk1Lxzg",
+    "name": "Charles Oliver",
+    "genres": []
+  },
+  {
+    "id": "2CKaDZ1Yo8YnWega9IeUzB",
+    "name": "Booka Shade",
+    "genres": [
+      "electronica",
+      "frankfurt electronic",
+      "german techno",
+      "microhouse",
+      "minimal techno",
+      "tech house"
+    ]
+  },
+  {
+    "id": "4qobOrZpdUri80gScwsHfs",
+    "name": "Bondax",
+    "genres": [
+      "future garage",
+      "indie soul",
+      "new french touch"
+    ]
+  },
+  {
+    "id": "6pNzdcgIaKQKsYNS5agP4V",
+    "name": "Gil Glaze",
+    "genres": [
+      "swiss pop"
+    ]
+  },
+  {
+    "id": "5N4dVbRP8Iu2sbKC8r8JeF",
+    "name": "Heliotype",
+    "genres": []
+  },
+  {
+    "id": "5D8rbwXVM9QblBu9XGtBUI",
+    "name": "Kattison",
+    "genres": []
+  },
+  {
+    "id": "2eFAqfF2tamQPHjvACwS5G",
+    "name": "Akiro",
+    "genres": []
+  },
+  {
+    "id": "2feyCjdXxbZ7afuPQcsIRl",
+    "name": "Samuel Sonder",
+    "genres": []
+  },
+  {
+    "id": "7B38d0XXdEY3vC5eddO6r6",
+    "name": "N1MA",
+    "genres": []
+  },
+  {
+    "id": "6uEljc0rXuNU3l01Sm1e6e",
+    "name": "Hybridbeats479",
+    "genres": []
+  },
+  {
+    "id": "2Tdl3r6583W3gcEdnXmmIr",
+    "name": "MESZCA",
+    "genres": []
+  },
+  {
+    "id": "3RP50pmG8Wz1mhNCidQj68",
+    "name": "RITUAL",
+    "genres": [
+      "vapor soul"
+    ]
+  },
+  {
+    "id": "60k4atxgEIMFz4DWHp0le1",
+    "name": "Braxton Cook",
+    "genres": [
+      "alternative r&b",
+      "chill r&b",
+      "indie jazz",
+      "indie r&b",
+      "indie soul",
+      "neo r&b"
+    ]
+  },
+  {
+    "id": "7lCWd42OYd5Rn7UbozbA6R",
+    "name": "Night Tales",
+    "genres": [
+      "australian dance"
+    ]
+  },
+  {
+    "id": "7zrkALJ9ayRjzysp4QYoEg",
+    "name": "Maribou State",
+    "genres": [
+      "electronica",
+      "future garage",
+      "indie soul"
+    ]
+  },
+  {
+    "id": "6eKWqnckwdIlSnjaYgIyxv",
+    "name": "Eli Young Band",
+    "genres": [
+      "contemporary country",
+      "country",
+      "country road",
+      "heartland rock",
+      "modern country rock",
+      "texas country"
+    ]
+  },
+  {
+    "id": "0Dc2rdPzleezxhvQhQbXuS",
+    "name": "Idris Elba",
+    "genres": [
+      "uk tech house"
+    ]
+  },
+  {
+    "id": "1oCUBnT304Iyc95vKgjyj0",
+    "name": "Damon Paul",
+    "genres": [
+      "berlin minimal techno"
+    ]
+  },
+  {
+    "id": "3E61SnNA9oqKP7hI0K3vZv",
+    "name": "CALVO",
+    "genres": [
+      "deep tropical house",
+      "edm",
+      "electro house",
+      "german dance",
+      "house",
+      "pop dance",
+      "pop edm",
+      "tropical house"
+    ]
+  },
+  {
+    "id": "4rC8J4M4aOqsQSCP4yoyJI",
+    "name": "Felix Da Housecat",
+    "genres": [
+      "acid house",
+      "alternative dance",
+      "chicago house",
+      "electroclash",
+      "electronica",
+      "filter house",
+      "new rave"
+    ]
+  },
+  {
+    "id": "1coHxhBPteDGeU23Kf1E98",
+    "name": "Crvvcks",
+    "genres": [
+      "deep groove house",
+      "uk dance"
+    ]
+  },
+  {
+    "id": "6UT0zskYDqB2JgGEiAEGFh",
+    "name": "Callum George",
+    "genres": []
+  },
+  {
+    "id": "1OzvLW7ccV7US8aTNODxmq",
+    "name": "Aki Nair",
+    "genres": []
+  }
+]
